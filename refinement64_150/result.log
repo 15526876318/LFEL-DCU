@@ -1,0 +1,167 @@
+start...
+INPUT PATH: ../example2/
+cuda:0
+['1be9A']
+***prtein:0***
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/1.pdb
+ iter_result:0 ,opi_loss 2.683742 time_cost   12.9562s RMSD:7.0413
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/2.pdb
+ iter_result:1 ,opi_loss 2.705470 time_cost   13.3363s RMSD:7.0580
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/3.pdb
+ iter_result:2 ,opi_loss 2.670337 time_cost   13.6929s RMSD:7.0644
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/4.pdb
+ iter_result:3 ,opi_loss 2.604071 time_cost   14.0511s RMSD:7.0719
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/5.pdb
+ iter_result:4 ,opi_loss 2.616288 time_cost   14.4120s RMSD:7.0733
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/6.pdb
+ iter_result:5 ,opi_loss 2.618976 time_cost   14.7720s RMSD:7.0694
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/7.pdb
+ iter_result:6 ,opi_loss 2.595918 time_cost   15.4616s RMSD:7.0693
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/8.pdb
+ iter_result:7 ,opi_loss 2.637825 time_cost   15.8213s RMSD:7.0629
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/9.pdb
+ iter_result:8 ,opi_loss 2.642127 time_cost   16.1804s RMSD:7.0595
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/10.pdb
+ iter_result:9 ,opi_loss 2.625789 time_cost   16.5388s RMSD:7.0572
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/11.pdb
+ iter_result:10 ,opi_loss 2.613183 time_cost   16.8986s RMSD:7.0569
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/12.pdb
+ iter_result:11 ,opi_loss 2.620921 time_cost   17.2582s RMSD:7.0577
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/13.pdb
+ iter_result:12 ,opi_loss 2.636735 time_cost   17.6185s RMSD:7.0558
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/14.pdb
+ iter_result:13 ,opi_loss 2.634952 time_cost   17.9786s RMSD:7.0548
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/15.pdb
+ iter_result:14 ,opi_loss 2.628844 time_cost   18.3454s RMSD:7.0529
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/16.pdb
+ iter_result:15 ,opi_loss 2.600496 time_cost   18.7047s RMSD:7.0512
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/17.pdb
+ iter_result:16 ,opi_loss 2.620661 time_cost   19.0639s RMSD:7.0517
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/18.pdb
+ iter_result:17 ,opi_loss 2.616372 time_cost   19.4596s RMSD:7.0512
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/19.pdb
+ iter_result:18 ,opi_loss 2.596797 time_cost   19.8216s RMSD:7.0507
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/20.pdb
+ iter_result:19 ,opi_loss 2.614093 time_cost   20.1796s RMSD:7.0518
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/21.pdb
+ iter_result:20 ,opi_loss 2.649480 time_cost   20.5387s RMSD:7.0552
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/22.pdb
+ iter_result:21 ,opi_loss 2.646837 time_cost   20.8993s RMSD:7.0596
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/23.pdb
+ iter_result:22 ,opi_loss 2.625883 time_cost   21.2573s RMSD:7.0688
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/24.pdb
+ iter_result:23 ,opi_loss 2.644842 time_cost   21.6202s RMSD:7.0763
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/25.pdb
+ iter_result:24 ,opi_loss 2.632023 time_cost   21.9798s RMSD:7.0851
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/26.pdb
+ iter_result:25 ,opi_loss 2.654314 time_cost   22.3403s RMSD:7.0916
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/27.pdb
+ iter_result:26 ,opi_loss 2.643529 time_cost   22.7006s RMSD:7.0939
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/28.pdb
+ iter_result:27 ,opi_loss 2.638587 time_cost   23.0714s RMSD:7.1000
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/29.pdb
+ iter_result:28 ,opi_loss 2.623861 time_cost   23.4658s RMSD:7.1060
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/30.pdb
+ iter_result:29 ,opi_loss 2.584300 time_cost   23.8262s RMSD:7.1105
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/31.pdb
+ iter_result:30 ,opi_loss 2.574904 time_cost   24.1869s RMSD:7.1118
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/32.pdb
+ iter_result:31 ,opi_loss 2.589825 time_cost   24.5485s RMSD:7.1168
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/33.pdb
+ iter_result:32 ,opi_loss 2.556941 time_cost   24.9140s RMSD:7.1208
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/34.pdb
+ iter_result:33 ,opi_loss 2.548322 time_cost   25.2748s RMSD:7.1230
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/35.pdb
+ iter_result:34 ,opi_loss 2.535333 time_cost   25.6351s RMSD:7.1296
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/36.pdb
+ iter_result:35 ,opi_loss 2.535013 time_cost   25.9931s RMSD:7.1368
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/37.pdb
+ iter_result:36 ,opi_loss 2.549202 time_cost   26.3541s RMSD:7.1415
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/38.pdb
+ iter_result:37 ,opi_loss 2.536224 time_cost   26.7143s RMSD:7.1454
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/39.pdb
+ iter_result:38 ,opi_loss 2.518261 time_cost   27.0740s RMSD:7.1495
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/40.pdb
+ iter_result:39 ,opi_loss 2.511714 time_cost   27.4669s RMSD:7.1522
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/41.pdb
+ iter_result:40 ,opi_loss 2.496537 time_cost   27.8208s RMSD:7.1526
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/42.pdb
+ iter_result:41 ,opi_loss 2.491847 time_cost   28.1786s RMSD:7.1548
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/43.pdb
+ iter_result:42 ,opi_loss 2.488575 time_cost   28.5336s RMSD:7.1588
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/44.pdb
+ iter_result:43 ,opi_loss 2.513305 time_cost   28.8876s RMSD:7.1634
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/45.pdb
+ iter_result:44 ,opi_loss 2.513934 time_cost   29.2425s RMSD:7.1666
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/46.pdb
+ iter_result:45 ,opi_loss 2.504542 time_cost   29.5940s RMSD:7.1705
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/47.pdb
+ iter_result:46 ,opi_loss 2.500171 time_cost   29.9483s RMSD:7.1745
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/48.pdb
+ iter_result:47 ,opi_loss 2.510411 time_cost   30.3036s RMSD:7.1799
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/49.pdb
+ iter_result:48 ,opi_loss 2.506146 time_cost   30.6592s RMSD:7.1827
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/50.pdb
+ iter_result:49 ,opi_loss 2.524885 time_cost   31.0139s RMSD:7.1861
+
+refinemnt pdb file: ../example2/cuda_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/51.pdb
+ iter_result:50 ,opi_loss 2.512853 time_cost   31.4044s RMSD:7.1908
+
+CPU单线程计算结果:
+ iter_result:50 ,opi_loss 2.512853 time_cost  316.3319s RMSD:7.1908
+DCU单卡计算结果:
+ iter_result:50 ,opi_loss 2.512853 time_cost   31.4044s RMSD:7.1908
+********************
+a.正确结果:loss误差:0.0000%, RMSD误差:0.0000%
+
+********************
+b.用时: 31.4044s,加速比 10.0729倍

@@ -1,0 +1,158 @@
+start...
+INPUT PATH: ../example2/
+cpu
+['1be9A']
+***prtein:0***
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/1.pdb
+ iter_result:0 ,opi_loss 2.683742 time_cost    6.5348s RMSD:7.0413
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/2.pdb
+ iter_result:1 ,opi_loss 2.705470 time_cost   12.6046s RMSD:7.0580
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/3.pdb
+ iter_result:2 ,opi_loss 2.670337 time_cost   18.7938s RMSD:7.0644
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/4.pdb
+ iter_result:3 ,opi_loss 2.604071 time_cost   24.9070s RMSD:7.0719
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/5.pdb
+ iter_result:4 ,opi_loss 2.616288 time_cost   31.0964s RMSD:7.0733
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/6.pdb
+ iter_result:5 ,opi_loss 2.618976 time_cost   37.3204s RMSD:7.0694
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/7.pdb
+ iter_result:6 ,opi_loss 2.595918 time_cost   43.4955s RMSD:7.0693
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/8.pdb
+ iter_result:7 ,opi_loss 2.637825 time_cost   49.7008s RMSD:7.0629
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/9.pdb
+ iter_result:8 ,opi_loss 2.642127 time_cost   55.8609s RMSD:7.0595
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/10.pdb
+ iter_result:9 ,opi_loss 2.625789 time_cost   62.1041s RMSD:7.0572
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/11.pdb
+ iter_result:10 ,opi_loss 2.613183 time_cost   68.2813s RMSD:7.0569
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/12.pdb
+ iter_result:11 ,opi_loss 2.620921 time_cost   74.4576s RMSD:7.0577
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/13.pdb
+ iter_result:12 ,opi_loss 2.636735 time_cost   80.6428s RMSD:7.0558
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/14.pdb
+ iter_result:13 ,opi_loss 2.634952 time_cost   86.9056s RMSD:7.0548
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/15.pdb
+ iter_result:14 ,opi_loss 2.628844 time_cost   93.0990s RMSD:7.0529
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/16.pdb
+ iter_result:15 ,opi_loss 2.600496 time_cost   99.2832s RMSD:7.0512
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/17.pdb
+ iter_result:16 ,opi_loss 2.620661 time_cost  105.5392s RMSD:7.0517
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/18.pdb
+ iter_result:17 ,opi_loss 2.616372 time_cost  111.7365s RMSD:7.0512
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/19.pdb
+ iter_result:18 ,opi_loss 2.596797 time_cost  117.9122s RMSD:7.0507
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/20.pdb
+ iter_result:19 ,opi_loss 2.614093 time_cost  124.0874s RMSD:7.0518
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/21.pdb
+ iter_result:20 ,opi_loss 2.649480 time_cost  130.3101s RMSD:7.0552
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/22.pdb
+ iter_result:21 ,opi_loss 2.646837 time_cost  136.5191s RMSD:7.0596
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/23.pdb
+ iter_result:22 ,opi_loss 2.625883 time_cost  142.7080s RMSD:7.0688
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/24.pdb
+ iter_result:23 ,opi_loss 2.644842 time_cost  148.8799s RMSD:7.0763
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/25.pdb
+ iter_result:24 ,opi_loss 2.632023 time_cost  155.1180s RMSD:7.0851
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/26.pdb
+ iter_result:25 ,opi_loss 2.654314 time_cost  161.3055s RMSD:7.0916
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/27.pdb
+ iter_result:26 ,opi_loss 2.643529 time_cost  167.5431s RMSD:7.0939
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/28.pdb
+ iter_result:27 ,opi_loss 2.638587 time_cost  173.7709s RMSD:7.1000
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/29.pdb
+ iter_result:28 ,opi_loss 2.623861 time_cost  179.9472s RMSD:7.1060
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/30.pdb
+ iter_result:29 ,opi_loss 2.584300 time_cost  186.1175s RMSD:7.1105
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/31.pdb
+ iter_result:30 ,opi_loss 2.574904 time_cost  192.3044s RMSD:7.1118
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/32.pdb
+ iter_result:31 ,opi_loss 2.589825 time_cost  198.5729s RMSD:7.1168
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/33.pdb
+ iter_result:32 ,opi_loss 2.556941 time_cost  204.7462s RMSD:7.1208
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/34.pdb
+ iter_result:33 ,opi_loss 2.548322 time_cost  210.9288s RMSD:7.1230
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/35.pdb
+ iter_result:34 ,opi_loss 2.535333 time_cost  217.1072s RMSD:7.1296
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/36.pdb
+ iter_result:35 ,opi_loss 2.535013 time_cost  223.3403s RMSD:7.1368
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/37.pdb
+ iter_result:36 ,opi_loss 2.549202 time_cost  229.5248s RMSD:7.1415
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/38.pdb
+ iter_result:37 ,opi_loss 2.536224 time_cost  235.7049s RMSD:7.1454
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/39.pdb
+ iter_result:38 ,opi_loss 2.518261 time_cost  241.8937s RMSD:7.1495
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/40.pdb
+ iter_result:39 ,opi_loss 2.511714 time_cost  248.1080s RMSD:7.1522
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/41.pdb
+ iter_result:40 ,opi_loss 2.496537 time_cost  254.3183s RMSD:7.1526
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/42.pdb
+ iter_result:41 ,opi_loss 2.491847 time_cost  260.5124s RMSD:7.1548
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/43.pdb
+ iter_result:42 ,opi_loss 2.488575 time_cost  266.7170s RMSD:7.1588
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/44.pdb
+ iter_result:43 ,opi_loss 2.513305 time_cost  272.9186s RMSD:7.1634
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/45.pdb
+ iter_result:44 ,opi_loss 2.513934 time_cost  279.0992s RMSD:7.1666
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/46.pdb
+ iter_result:45 ,opi_loss 2.504542 time_cost  285.3286s RMSD:7.1705
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/47.pdb
+ iter_result:46 ,opi_loss 2.500171 time_cost  291.5327s RMSD:7.1745
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/48.pdb
+ iter_result:47 ,opi_loss 2.510411 time_cost  297.7056s RMSD:7.1799
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/49.pdb
+ iter_result:48 ,opi_loss 2.506146 time_cost  303.8734s RMSD:7.1827
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/50.pdb
+ iter_result:49 ,opi_loss 2.524885 time_cost  310.0699s RMSD:7.1861
+
+refinemnt pdb file: ../example2/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/51.pdb
+ iter_result:50 ,opi_loss 2.512853 time_cost  316.3319s RMSD:7.1908
+

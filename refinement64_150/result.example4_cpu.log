@@ -1,0 +1,2856 @@
+start...
+INPUT PATH: ../example4/
+cpu
+['1fdk_', '1cfvH', '1d1jC', '1ejbA', '2cb8A', '1b0b_', '1awqA', '2v33A', '1goyA', '1wlzA', '1fm0D', '1dud_', '3c7mA', '1ff3A', '2jekA', '3bqsA', '2oznA', '2nmlA', '1rfyA', '3by4A', '1t3yA', '1hbg_', '1h97A', '1ew4A', '1yd0A', '1tqgA', '1ow4A', '1ou8A', '1atlA', '1b11A', '1hnl_', '1q1fA', '2grrB', '1z3eB', '2bwfA', '1df8A', '1b1cA', '1j77A', '1oh0A', '1wmhB', '2vyyA', '1mn8A', '1a5v_', '2b5aA', '2rb8A', '1ccwA', '2rk3A', '1u2hA', '1l9lA', '2iu5A', '1d01D', '1h4hA', '1eumA', '1mk0A', '1t7dA', '2ip6A', '1dzrA', '1nlqA', '1x6iA', '2o37A', '1tzvA', '1d2uA', '1t1vA', '3bfoA', '2fcwA', '1tugB', '1w53A', '1wmhA', '1xppA', '1d0iA', '1a00A', '2c92A', '2zs0D', '2p6wA', '2pmrA', '1j3wA', '3d9nA', '1afqC', '1gxuA', '1tp6A', '1elrA', '1be9A', '1u84A', '1cv8_', '2ifrA', '1b66A', '2ev1A', '1ds7A', '1elwA', '1ufyA', '1y3dI', '1u55A', '3bqpA', '2gkgA', '1eyhA', '1g5tA', '1nwaA', '1sz7A', '1d8uA', '2v2pA', '1uuyA', '1e6iA', '1bvqA', '2chhA', '1ugiA', '1wpaA', '1tkuA', '1xa8A', '1wzdA', '2j8wA', '1dw0A', '1bh5A', '1bs4A', '1e29A', '1o82A', '1eqmA', '1elkA', '1oohA', '1x91A', '1cpq_', '1gcvB', '1e20A', '1usqA', '1kafA', '1c9kB', '3cjsB', '2pvbA', '1ddrA', '2pv2A', '1hdoA', '2h7zA', '101m_', '1dxpA', '1a07A', '2ofcA', '1bzsA', '1f7lA', '1gpqA', '1uxzA', '1xmtA', '1ok0A', '1dt1A', '2hl0A', '1q4kA', '1d7bA', '1i4sA', '1gy7A', '1hlb_', '1y9tA', '1dveA']
+start...
+INPUT PATH: ../example4/
+***prtein:0***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fdk__/1.pdb
+ iter_result:0 ,opi_loss 3.375046 time_cost  6.8623s RMSD:11.3548
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fdk__/2.pdb
+ iter_result:1 ,opi_loss 3.311284 time_cost 13.2542s RMSD:11.3391
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fdk__/3.pdb
+ iter_result:2 ,opi_loss 3.336582 time_cost 19.6318s RMSD:11.3275
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fdk__/4.pdb
+ iter_result:3 ,opi_loss 3.302293 time_cost 26.0354s RMSD:11.3201
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fdk__/5.pdb
+ iter_result:4 ,opi_loss 3.314286 time_cost 32.4741s RMSD:11.3179
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fdk__/6.pdb
+ iter_result:5 ,opi_loss 3.282790 time_cost 38.9490s RMSD:11.3135
+
+***prtein:1***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cfvH_/1.pdb
+ iter_result:0 ,opi_loss 2.980862 time_cost 45.4299s RMSD:2.2833
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cfvH_/2.pdb
+ iter_result:1 ,opi_loss 2.979776 time_cost 51.6747s RMSD:2.2886
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cfvH_/3.pdb
+ iter_result:2 ,opi_loss 3.000239 time_cost 57.9017s RMSD:2.3046
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cfvH_/4.pdb
+ iter_result:3 ,opi_loss 2.920739 time_cost 64.1494s RMSD:2.3229
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cfvH_/5.pdb
+ iter_result:4 ,opi_loss 2.922077 time_cost 70.3466s RMSD:2.3308
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cfvH_/6.pdb
+ iter_result:5 ,opi_loss 2.956441 time_cost 76.5970s RMSD:2.3407
+
+***prtein:2***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d1jC_/1.pdb
+ iter_result:0 ,opi_loss 2.813126 time_cost 84.2566s RMSD:2.6332
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d1jC_/2.pdb
+ iter_result:1 ,opi_loss 2.834438 time_cost 91.6556s RMSD:2.6283
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d1jC_/3.pdb
+ iter_result:2 ,opi_loss 2.816173 time_cost 99.1327s RMSD:2.6230
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d1jC_/4.pdb
+ iter_result:3 ,opi_loss 2.813967 time_cost106.5573s RMSD:2.6196
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d1jC_/5.pdb
+ iter_result:4 ,opi_loss 2.822875 time_cost113.9739s RMSD:2.6167
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d1jC_/6.pdb
+ iter_result:5 ,opi_loss 2.838817 time_cost121.4097s RMSD:2.6135
+
+***prtein:3***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ejbA_/1.pdb
+ iter_result:0 ,opi_loss 2.667387 time_cost131.3128s RMSD:6.7189
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ejbA_/2.pdb
+ iter_result:1 ,opi_loss 2.662870 time_cost141.0811s RMSD:6.7509
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ejbA_/3.pdb
+ iter_result:2 ,opi_loss 2.638041 time_cost150.7866s RMSD:6.7715
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ejbA_/4.pdb
+ iter_result:3 ,opi_loss 2.643554 time_cost160.5707s RMSD:6.7841
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ejbA_/5.pdb
+ iter_result:4 ,opi_loss 2.636851 time_cost170.2872s RMSD:6.7949
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ejbA_/6.pdb
+ iter_result:5 ,opi_loss 2.629547 time_cost180.1020s RMSD:6.8030
+
+***prtein:4***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2cb8A_/1.pdb
+ iter_result:0 ,opi_loss 2.067338 time_cost184.8376s RMSD:2.4540
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2cb8A_/2.pdb
+ iter_result:1 ,opi_loss 2.049176 time_cost189.1412s RMSD:2.4464
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2cb8A_/3.pdb
+ iter_result:2 ,opi_loss 2.080919 time_cost193.4380s RMSD:2.4452
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2cb8A_/4.pdb
+ iter_result:3 ,opi_loss 1.978743 time_cost197.7070s RMSD:2.4478
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2cb8A_/5.pdb
+ iter_result:4 ,opi_loss 1.977058 time_cost201.9798s RMSD:2.4394
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2cb8A_/6.pdb
+ iter_result:5 ,opi_loss 1.947284 time_cost206.2541s RMSD:2.4395
+
+***prtein:5***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b0b__/1.pdb
+ iter_result:0 ,opi_loss 2.602806 time_cost213.9856s RMSD:1.9984
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b0b__/2.pdb
+ iter_result:1 ,opi_loss 2.621324 time_cost221.6008s RMSD:1.9901
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b0b__/3.pdb
+ iter_result:2 ,opi_loss 2.623181 time_cost229.2342s RMSD:1.9878
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b0b__/4.pdb
+ iter_result:3 ,opi_loss 2.580865 time_cost236.9309s RMSD:1.9801
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b0b__/5.pdb
+ iter_result:4 ,opi_loss 2.604550 time_cost244.6503s RMSD:1.9788
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b0b__/6.pdb
+ iter_result:5 ,opi_loss 2.591627 time_cost252.2980s RMSD:1.9801
+
+***prtein:6***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1awqA_/1.pdb
+ iter_result:0 ,opi_loss 2.685367 time_cost262.2637s RMSD:3.9847
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1awqA_/2.pdb
+ iter_result:1 ,opi_loss 2.656697 time_cost271.6471s RMSD:3.9861
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1awqA_/3.pdb
+ iter_result:2 ,opi_loss 2.675393 time_cost281.1271s RMSD:3.9952
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1awqA_/4.pdb
+ iter_result:3 ,opi_loss 2.620078 time_cost290.5522s RMSD:4.0123
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1awqA_/5.pdb
+ iter_result:4 ,opi_loss 2.628434 time_cost300.0411s RMSD:4.0277
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1awqA_/6.pdb
+ iter_result:5 ,opi_loss 2.626665 time_cost309.5101s RMSD:4.0330
+
+***prtein:7***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v33A_/1.pdb
+ iter_result:0 ,opi_loss 2.928633 time_cost314.4939s RMSD:5.5089
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v33A_/2.pdb
+ iter_result:1 ,opi_loss 2.904131 time_cost319.0613s RMSD:5.5208
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v33A_/3.pdb
+ iter_result:2 ,opi_loss 2.873016 time_cost323.6108s RMSD:5.5202
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v33A_/4.pdb
+ iter_result:3 ,opi_loss 2.884204 time_cost328.1451s RMSD:5.5180
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v33A_/5.pdb
+ iter_result:4 ,opi_loss 2.887553 time_cost332.6688s RMSD:5.5185
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v33A_/6.pdb
+ iter_result:5 ,opi_loss 2.887351 time_cost337.2352s RMSD:5.5067
+
+***prtein:8***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1goyA_/1.pdb
+ iter_result:0 ,opi_loss 3.286134 time_cost342.9962s RMSD:9.9856
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1goyA_/2.pdb
+ iter_result:1 ,opi_loss 3.295971 time_cost348.5479s RMSD:9.9588
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1goyA_/3.pdb
+ iter_result:2 ,opi_loss 3.298030 time_cost354.1129s RMSD:9.9636
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1goyA_/4.pdb
+ iter_result:3 ,opi_loss 3.258893 time_cost359.7441s RMSD:9.9735
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1goyA_/5.pdb
+ iter_result:4 ,opi_loss 3.246551 time_cost365.3803s RMSD:9.9735
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1goyA_/6.pdb
+ iter_result:5 ,opi_loss 3.232389 time_cost370.9467s RMSD:9.9854
+
+***prtein:9***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wlzA_/1.pdb
+ iter_result:0 ,opi_loss 2.953919 time_cost375.4161s RMSD:4.9942
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wlzA_/2.pdb
+ iter_result:1 ,opi_loss 2.934869 time_cost379.6967s RMSD:4.9993
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wlzA_/3.pdb
+ iter_result:2 ,opi_loss 2.918332 time_cost383.9335s RMSD:5.0033
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wlzA_/4.pdb
+ iter_result:3 ,opi_loss 2.931807 time_cost388.1476s RMSD:5.0044
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wlzA_/5.pdb
+ iter_result:4 ,opi_loss 2.931964 time_cost392.3592s RMSD:5.0058
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wlzA_/6.pdb
+ iter_result:5 ,opi_loss 2.944306 time_cost396.5829s RMSD:5.0079
+
+***prtein:10***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fm0D_/1.pdb
+ iter_result:0 ,opi_loss 2.378152 time_cost400.7808s RMSD:1.4102
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fm0D_/2.pdb
+ iter_result:1 ,opi_loss 2.376643 time_cost404.7794s RMSD:1.4098
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fm0D_/3.pdb
+ iter_result:2 ,opi_loss 2.376700 time_cost408.7357s RMSD:1.4082
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fm0D_/4.pdb
+ iter_result:3 ,opi_loss 2.370503 time_cost412.6859s RMSD:1.4068
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fm0D_/5.pdb
+ iter_result:4 ,opi_loss 2.379050 time_cost416.6290s RMSD:1.4056
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1fm0D_/6.pdb
+ iter_result:5 ,opi_loss 2.398490 time_cost420.6033s RMSD:1.4045
+
+***prtein:11***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dud__/1.pdb
+ iter_result:0 ,opi_loss 2.423166 time_cost428.0497s RMSD:3.6507
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dud__/2.pdb
+ iter_result:1 ,opi_loss 2.419854 time_cost435.3174s RMSD:3.6319
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dud__/3.pdb
+ iter_result:2 ,opi_loss 2.396101 time_cost442.6160s RMSD:3.6208
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dud__/4.pdb
+ iter_result:3 ,opi_loss 2.433131 time_cost449.9502s RMSD:3.6122
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dud__/5.pdb
+ iter_result:4 ,opi_loss 2.413592 time_cost457.2642s RMSD:3.6075
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dud__/6.pdb
+ iter_result:5 ,opi_loss 2.384294 time_cost464.6044s RMSD:3.6046
+
+***prtein:12***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3c7mA_/1.pdb
+ iter_result:0 ,opi_loss 2.501597 time_cost476.5005s RMSD:2.8979
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3c7mA_/2.pdb
+ iter_result:1 ,opi_loss 2.498133 time_cost488.3937s RMSD:2.8857
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3c7mA_/3.pdb
+ iter_result:2 ,opi_loss 2.435346 time_cost500.2951s RMSD:2.8920
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3c7mA_/4.pdb
+ iter_result:3 ,opi_loss 2.418412 time_cost512.2066s RMSD:2.9030
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3c7mA_/5.pdb
+ iter_result:4 ,opi_loss 2.439365 time_cost524.2455s RMSD:2.9094
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3c7mA_/6.pdb
+ iter_result:5 ,opi_loss 2.415448 time_cost536.2561s RMSD:2.9293
+
+***prtein:13***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ff3A_/1.pdb
+ iter_result:0 ,opi_loss 3.114491 time_cost549.8097s RMSD:8.7318
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ff3A_/2.pdb
+ iter_result:1 ,opi_loss 3.123857 time_cost563.0533s RMSD:8.7006
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ff3A_/3.pdb
+ iter_result:2 ,opi_loss 3.132711 time_cost576.2824s RMSD:8.6676
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ff3A_/4.pdb
+ iter_result:3 ,opi_loss 3.078971 time_cost589.4993s RMSD:8.6479
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ff3A_/5.pdb
+ iter_result:4 ,opi_loss 3.051942 time_cost602.6532s RMSD:8.6256
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ff3A_/6.pdb
+ iter_result:5 ,opi_loss 3.049775 time_cost615.9650s RMSD:8.6098
+
+***prtein:14***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2jekA_/1.pdb
+ iter_result:0 ,opi_loss 2.941927 time_cost624.3655s RMSD:13.2078
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2jekA_/2.pdb
+ iter_result:1 ,opi_loss 2.945725 time_cost632.2676s RMSD:13.2120
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2jekA_/3.pdb
+ iter_result:2 ,opi_loss 2.923036 time_cost640.0343s RMSD:13.2194
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2jekA_/4.pdb
+ iter_result:3 ,opi_loss 2.914704 time_cost647.9099s RMSD:13.2261
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2jekA_/5.pdb
+ iter_result:4 ,opi_loss 2.912256 time_cost655.6610s RMSD:13.2335
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2jekA_/6.pdb
+ iter_result:5 ,opi_loss 2.887784 time_cost663.4303s RMSD:13.2405
+
+***prtein:15***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqsA_/1.pdb
+ iter_result:0 ,opi_loss 2.978191 time_cost668.1217s RMSD:10.8596
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqsA_/2.pdb
+ iter_result:1 ,opi_loss 2.985927 time_cost672.4779s RMSD:10.8612
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqsA_/3.pdb
+ iter_result:2 ,opi_loss 2.979735 time_cost676.7628s RMSD:10.8644
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqsA_/4.pdb
+ iter_result:3 ,opi_loss 2.985658 time_cost681.0623s RMSD:10.8674
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqsA_/5.pdb
+ iter_result:4 ,opi_loss 2.977323 time_cost685.3536s RMSD:10.8708
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqsA_/6.pdb
+ iter_result:5 ,opi_loss 3.022994 time_cost689.7022s RMSD:10.8742
+
+***prtein:16***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2oznA_/1.pdb
+ iter_result:0 ,opi_loss 2.885618 time_cost697.0691s RMSD:3.2566
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2oznA_/2.pdb
+ iter_result:1 ,opi_loss 2.797759 time_cost704.3186s RMSD:3.2332
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2oznA_/3.pdb
+ iter_result:2 ,opi_loss 2.795243 time_cost711.5749s RMSD:3.2312
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2oznA_/4.pdb
+ iter_result:3 ,opi_loss 2.817173 time_cost718.8687s RMSD:3.2298
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2oznA_/5.pdb
+ iter_result:4 ,opi_loss 2.816993 time_cost726.1606s RMSD:3.2325
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2oznA_/6.pdb
+ iter_result:5 ,opi_loss 2.778980 time_cost733.5100s RMSD:3.2346
+
+***prtein:17***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2nmlA_/1.pdb
+ iter_result:0 ,opi_loss 3.025490 time_cost739.0180s RMSD:11.5066
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2nmlA_/2.pdb
+ iter_result:1 ,opi_loss 2.961913 time_cost744.2159s RMSD:11.5445
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2nmlA_/3.pdb
+ iter_result:2 ,opi_loss 2.968940 time_cost749.4039s RMSD:11.5661
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2nmlA_/4.pdb
+ iter_result:3 ,opi_loss 2.949245 time_cost754.5691s RMSD:11.5818
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2nmlA_/5.pdb
+ iter_result:4 ,opi_loss 2.977837 time_cost759.7693s RMSD:11.5921
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2nmlA_/6.pdb
+ iter_result:5 ,opi_loss 2.963057 time_cost764.9573s RMSD:11.6040
+
+***prtein:18***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1rfyA_/1.pdb
+ iter_result:0 ,opi_loss 2.541128 time_cost769.7138s RMSD:5.3920
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1rfyA_/2.pdb
+ iter_result:1 ,opi_loss 2.529418 time_cost774.2467s RMSD:5.4014
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1rfyA_/3.pdb
+ iter_result:2 ,opi_loss 2.523988 time_cost778.7670s RMSD:5.3940
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1rfyA_/4.pdb
+ iter_result:3 ,opi_loss 2.522135 time_cost783.3195s RMSD:5.4011
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1rfyA_/5.pdb
+ iter_result:4 ,opi_loss 2.536219 time_cost787.8302s RMSD:5.4010
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1rfyA_/6.pdb
+ iter_result:5 ,opi_loss 2.541666 time_cost792.3577s RMSD:5.3880
+
+***prtein:19***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3by4A_/1.pdb
+ iter_result:0 ,opi_loss 2.928984 time_cost802.4523s RMSD:7.5891
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3by4A_/2.pdb
+ iter_result:1 ,opi_loss 2.942776 time_cost812.4706s RMSD:7.6169
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3by4A_/3.pdb
+ iter_result:2 ,opi_loss 2.900503 time_cost822.5785s RMSD:7.6465
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3by4A_/4.pdb
+ iter_result:3 ,opi_loss 2.888828 time_cost832.5956s RMSD:7.6666
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3by4A_/5.pdb
+ iter_result:4 ,opi_loss 2.879027 time_cost842.6761s RMSD:7.6655
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3by4A_/6.pdb
+ iter_result:5 ,opi_loss 2.886594 time_cost852.7628s RMSD:7.6700
+
+***prtein:20***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t3yA_/1.pdb
+ iter_result:0 ,opi_loss 2.705778 time_cost860.2595s RMSD:1.5910
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t3yA_/2.pdb
+ iter_result:1 ,opi_loss 2.673006 time_cost867.4140s RMSD:1.5966
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t3yA_/3.pdb
+ iter_result:2 ,opi_loss 2.652360 time_cost874.5262s RMSD:1.6016
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t3yA_/4.pdb
+ iter_result:3 ,opi_loss 2.644630 time_cost881.6203s RMSD:1.6082
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t3yA_/5.pdb
+ iter_result:4 ,opi_loss 2.646139 time_cost888.7441s RMSD:1.6138
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t3yA_/6.pdb
+ iter_result:5 ,opi_loss 2.634403 time_cost895.8295s RMSD:1.6228
+
+***prtein:21***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hbg__/1.pdb
+ iter_result:0 ,opi_loss 2.323290 time_cost904.2337s RMSD:1.8570
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hbg__/2.pdb
+ iter_result:1 ,opi_loss 2.289671 time_cost912.4162s RMSD:1.8477
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hbg__/3.pdb
+ iter_result:2 ,opi_loss 2.269691 time_cost920.6386s RMSD:1.8448
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hbg__/4.pdb
+ iter_result:3 ,opi_loss 2.204541 time_cost928.8695s RMSD:1.8529
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hbg__/5.pdb
+ iter_result:4 ,opi_loss 2.204724 time_cost937.0928s RMSD:1.8597
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hbg__/6.pdb
+ iter_result:5 ,opi_loss 2.197050 time_cost945.3313s RMSD:1.8629
+
+***prtein:22***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h97A_/1.pdb
+ iter_result:0 ,opi_loss 2.446213 time_cost953.7920s RMSD:1.9932
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h97A_/2.pdb
+ iter_result:1 ,opi_loss 2.453358 time_cost962.0210s RMSD:1.9981
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h97A_/3.pdb
+ iter_result:2 ,opi_loss 2.438944 time_cost970.2101s RMSD:2.0052
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h97A_/4.pdb
+ iter_result:3 ,opi_loss 2.446787 time_cost978.4746s RMSD:2.0064
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h97A_/5.pdb
+ iter_result:4 ,opi_loss 2.460977 time_cost986.6517s RMSD:2.0111
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h97A_/6.pdb
+ iter_result:5 ,opi_loss 2.455293 time_cost994.9286s RMSD:2.0177
+
+***prtein:23***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ew4A_/1.pdb
+ iter_result:0 ,opi_loss 2.634660 time_cost1000.7991s RMSD:2.0095
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ew4A_/2.pdb
+ iter_result:1 ,opi_loss 2.632054 time_cost1006.3515s RMSD:2.0114
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ew4A_/3.pdb
+ iter_result:2 ,opi_loss 2.641240 time_cost1011.8205s RMSD:2.0152
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ew4A_/4.pdb
+ iter_result:3 ,opi_loss 2.629043 time_cost1017.3053s RMSD:2.0183
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ew4A_/5.pdb
+ iter_result:4 ,opi_loss 2.633754 time_cost1022.7897s RMSD:2.0224
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ew4A_/6.pdb
+ iter_result:5 ,opi_loss 2.636784 time_cost1028.2538s RMSD:2.0251
+
+***prtein:24***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1yd0A_/1.pdb
+ iter_result:0 ,opi_loss 3.092155 time_cost1032.9709s RMSD:5.5614
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1yd0A_/2.pdb
+ iter_result:1 ,opi_loss 3.013958 time_cost1037.4543s RMSD:5.5505
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1yd0A_/3.pdb
+ iter_result:2 ,opi_loss 2.996362 time_cost1041.9601s RMSD:5.5367
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1yd0A_/4.pdb
+ iter_result:3 ,opi_loss 2.972068 time_cost1046.4247s RMSD:5.5398
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1yd0A_/5.pdb
+ iter_result:4 ,opi_loss 2.974042 time_cost1050.9282s RMSD:5.5417
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1yd0A_/6.pdb
+ iter_result:5 ,opi_loss 2.961914 time_cost1055.3897s RMSD:5.5454
+
+***prtein:25***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tqgA_/1.pdb
+ iter_result:0 ,opi_loss 2.636887 time_cost1060.9284s RMSD:1.5180
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tqgA_/2.pdb
+ iter_result:1 ,opi_loss 2.595132 time_cost1066.3674s RMSD:1.5144
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tqgA_/3.pdb
+ iter_result:2 ,opi_loss 2.585038 time_cost1071.7545s RMSD:1.5154
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tqgA_/4.pdb
+ iter_result:3 ,opi_loss 2.575937 time_cost1077.1451s RMSD:1.5152
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tqgA_/5.pdb
+ iter_result:4 ,opi_loss 2.597137 time_cost1082.5452s RMSD:1.5160
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tqgA_/6.pdb
+ iter_result:5 ,opi_loss 2.598814 time_cost1087.9704s RMSD:1.5146
+
+***prtein:26***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ow4A_/1.pdb
+ iter_result:0 ,opi_loss 2.654493 time_cost1094.5182s RMSD:2.7006
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ow4A_/2.pdb
+ iter_result:1 ,opi_loss 2.642391 time_cost1100.8273s RMSD:2.6947
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ow4A_/3.pdb
+ iter_result:2 ,opi_loss 2.663843 time_cost1107.1464s RMSD:2.6909
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ow4A_/4.pdb
+ iter_result:3 ,opi_loss 2.660210 time_cost1113.5520s RMSD:2.6896
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ow4A_/5.pdb
+ iter_result:4 ,opi_loss 2.630836 time_cost1119.8804s RMSD:2.6894
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ow4A_/6.pdb
+ iter_result:5 ,opi_loss 2.620479 time_cost1126.2343s RMSD:2.6898
+
+***prtein:27***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ou8A_/1.pdb
+ iter_result:0 ,opi_loss 2.580123 time_cost1131.9786s RMSD:4.3605
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ou8A_/2.pdb
+ iter_result:1 ,opi_loss 2.517711 time_cost1137.4467s RMSD:4.3416
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ou8A_/3.pdb
+ iter_result:2 ,opi_loss 2.533708 time_cost1142.9057s RMSD:4.3237
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ou8A_/4.pdb
+ iter_result:3 ,opi_loss 2.460431 time_cost1148.3424s RMSD:4.3146
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ou8A_/5.pdb
+ iter_result:4 ,opi_loss 2.469722 time_cost1153.8292s RMSD:4.3053
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ou8A_/6.pdb
+ iter_result:5 ,opi_loss 2.431140 time_cost1159.2646s RMSD:4.3041
+
+***prtein:28***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1atlA_/1.pdb
+ iter_result:0 ,opi_loss 2.872730 time_cost1171.7189s RMSD:2.4143
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1atlA_/2.pdb
+ iter_result:1 ,opi_loss 2.864055 time_cost1183.9559s RMSD:2.4311
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1atlA_/3.pdb
+ iter_result:2 ,opi_loss 2.848365 time_cost1196.2677s RMSD:2.4444
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1atlA_/4.pdb
+ iter_result:3 ,opi_loss 2.838535 time_cost1208.5591s RMSD:2.4567
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1atlA_/5.pdb
+ iter_result:4 ,opi_loss 2.806276 time_cost1220.9243s RMSD:2.4790
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1atlA_/6.pdb
+ iter_result:5 ,opi_loss 2.753434 time_cost1233.4612s RMSD:2.4850
+
+***prtein:29***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b11A_/1.pdb
+ iter_result:0 ,opi_loss 2.659867 time_cost1240.0160s RMSD:6.0944
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b11A_/2.pdb
+ iter_result:1 ,opi_loss 2.685178 time_cost1246.1275s RMSD:6.0831
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b11A_/3.pdb
+ iter_result:2 ,opi_loss 2.668982 time_cost1252.0860s RMSD:6.0692
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b11A_/4.pdb
+ iter_result:3 ,opi_loss 2.675645 time_cost1258.0330s RMSD:6.0605
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b11A_/5.pdb
+ iter_result:4 ,opi_loss 2.716169 time_cost1264.0174s RMSD:6.0585
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b11A_/6.pdb
+ iter_result:5 ,opi_loss 2.718542 time_cost1269.9738s RMSD:6.0534
+
+***prtein:30***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hnl__/1.pdb
+ iter_result:0 ,opi_loss 2.944682 time_cost1277.2551s RMSD:6.9384
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hnl__/2.pdb
+ iter_result:1 ,opi_loss 2.941751 time_cost1284.3519s RMSD:6.9564
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hnl__/3.pdb
+ iter_result:2 ,opi_loss 2.943622 time_cost1291.4562s RMSD:6.9517
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hnl__/4.pdb
+ iter_result:3 ,opi_loss 2.933734 time_cost1298.5398s RMSD:6.9613
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hnl__/5.pdb
+ iter_result:4 ,opi_loss 2.924716 time_cost1305.6994s RMSD:6.9722
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hnl__/6.pdb
+ iter_result:5 ,opi_loss 2.927360 time_cost1312.7889s RMSD:6.9829
+
+***prtein:31***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q1fA_/1.pdb
+ iter_result:0 ,opi_loss 2.453540 time_cost1322.2634s RMSD:1.7917
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q1fA_/2.pdb
+ iter_result:1 ,opi_loss 2.410805 time_cost1330.6105s RMSD:1.7673
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q1fA_/3.pdb
+ iter_result:2 ,opi_loss 2.307898 time_cost1338.9690s RMSD:1.7550
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q1fA_/4.pdb
+ iter_result:3 ,opi_loss 2.306756 time_cost1347.3597s RMSD:1.7574
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q1fA_/5.pdb
+ iter_result:4 ,opi_loss 2.297337 time_cost1355.7353s RMSD:1.7586
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q1fA_/6.pdb
+ iter_result:5 ,opi_loss 2.295762 time_cost1364.0949s RMSD:1.7641
+
+***prtein:32***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2grrB_/1.pdb
+ iter_result:0 ,opi_loss 3.151766 time_cost1373.4047s RMSD:6.5624
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2grrB_/2.pdb
+ iter_result:1 ,opi_loss 3.136774 time_cost1382.5094s RMSD:6.5545
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2grrB_/3.pdb
+ iter_result:2 ,opi_loss 3.174232 time_cost1391.5682s RMSD:6.5472
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2grrB_/4.pdb
+ iter_result:3 ,opi_loss 3.190887 time_cost1400.6386s RMSD:6.5403
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2grrB_/5.pdb
+ iter_result:4 ,opi_loss 3.182872 time_cost1409.6944s RMSD:6.5298
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2grrB_/6.pdb
+ iter_result:5 ,opi_loss 3.165411 time_cost1418.7973s RMSD:6.5155
+
+***prtein:33***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1z3eB_/1.pdb
+ iter_result:0 ,opi_loss 2.373663 time_cost1422.4531s RMSD:1.6317
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1z3eB_/2.pdb
+ iter_result:1 ,opi_loss 2.399472 time_cost1425.7465s RMSD:1.6306
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1z3eB_/3.pdb
+ iter_result:2 ,opi_loss 2.382186 time_cost1428.9794s RMSD:1.6300
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1z3eB_/4.pdb
+ iter_result:3 ,opi_loss 2.373592 time_cost1432.2176s RMSD:1.6316
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1z3eB_/5.pdb
+ iter_result:4 ,opi_loss 2.399871 time_cost1435.4427s RMSD:1.6339
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1z3eB_/6.pdb
+ iter_result:5 ,opi_loss 2.403319 time_cost1438.6566s RMSD:1.6379
+
+***prtein:34***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2bwfA_/1.pdb
+ iter_result:0 ,opi_loss 2.458075 time_cost1442.5546s RMSD:2.4512
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2bwfA_/2.pdb
+ iter_result:1 ,opi_loss 2.449232 time_cost1446.3031s RMSD:2.4565
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2bwfA_/3.pdb
+ iter_result:2 ,opi_loss 2.435668 time_cost1450.0525s RMSD:2.4612
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2bwfA_/4.pdb
+ iter_result:3 ,opi_loss 2.445292 time_cost1453.8663s RMSD:2.4646
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2bwfA_/5.pdb
+ iter_result:4 ,opi_loss 2.435098 time_cost1457.6515s RMSD:2.4703
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2bwfA_/6.pdb
+ iter_result:5 ,opi_loss 2.458521 time_cost1461.4244s RMSD:2.4784
+
+***prtein:35***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1df8A_/1.pdb
+ iter_result:0 ,opi_loss 2.780527 time_cost1467.6820s RMSD:3.5854
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1df8A_/2.pdb
+ iter_result:1 ,opi_loss 2.783188 time_cost1473.8612s RMSD:3.5822
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1df8A_/3.pdb
+ iter_result:2 ,opi_loss 2.733792 time_cost1480.0012s RMSD:3.5822
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1df8A_/4.pdb
+ iter_result:3 ,opi_loss 2.677617 time_cost1486.1990s RMSD:3.5835
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1df8A_/5.pdb
+ iter_result:4 ,opi_loss 2.655151 time_cost1492.3671s RMSD:3.5824
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1df8A_/6.pdb
+ iter_result:5 ,opi_loss 2.630857 time_cost1498.5695s RMSD:3.5809
+
+***prtein:36***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b1cA_/1.pdb
+ iter_result:0 ,opi_loss 2.718157 time_cost1508.2846s RMSD:4.5376
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b1cA_/2.pdb
+ iter_result:1 ,opi_loss 2.717429 time_cost1517.8764s RMSD:4.5319
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b1cA_/3.pdb
+ iter_result:2 ,opi_loss 2.731246 time_cost1527.4727s RMSD:4.5287
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b1cA_/4.pdb
+ iter_result:3 ,opi_loss 2.702013 time_cost1537.1700s RMSD:4.5279
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b1cA_/5.pdb
+ iter_result:4 ,opi_loss 2.683899 time_cost1546.8359s RMSD:4.5260
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b1cA_/6.pdb
+ iter_result:5 ,opi_loss 2.678827 time_cost1556.4991s RMSD:4.5273
+
+***prtein:37***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j77A_/1.pdb
+ iter_result:0 ,opi_loss 3.200204 time_cost1569.0157s RMSD:5.7356
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j77A_/2.pdb
+ iter_result:1 ,opi_loss 3.172241 time_cost1581.2864s RMSD:5.7377
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j77A_/3.pdb
+ iter_result:2 ,opi_loss 3.154571 time_cost1593.6297s RMSD:5.7450
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j77A_/4.pdb
+ iter_result:3 ,opi_loss 3.146508 time_cost1606.0153s RMSD:5.7634
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j77A_/5.pdb
+ iter_result:4 ,opi_loss 3.143225 time_cost1618.4567s RMSD:5.7631
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j77A_/6.pdb
+ iter_result:5 ,opi_loss 3.182376 time_cost1630.8589s RMSD:5.7695
+
+***prtein:38***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oh0A_/1.pdb
+ iter_result:0 ,opi_loss 2.626572 time_cost1638.1437s RMSD:2.0833
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oh0A_/2.pdb
+ iter_result:1 ,opi_loss 2.592311 time_cost1644.9760s RMSD:2.0946
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oh0A_/3.pdb
+ iter_result:2 ,opi_loss 2.553036 time_cost1651.7616s RMSD:2.1134
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oh0A_/4.pdb
+ iter_result:3 ,opi_loss 2.543843 time_cost1658.4654s RMSD:2.1305
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oh0A_/5.pdb
+ iter_result:4 ,opi_loss 2.518924 time_cost1665.2011s RMSD:2.1478
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oh0A_/6.pdb
+ iter_result:5 ,opi_loss 2.529427 time_cost1671.9590s RMSD:2.1629
+
+***prtein:39***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhB_/1.pdb
+ iter_result:0 ,opi_loss 2.526434 time_cost1676.3605s RMSD:1.8370
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhB_/2.pdb
+ iter_result:1 ,opi_loss 2.522301 time_cost1680.4625s RMSD:1.8372
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhB_/3.pdb
+ iter_result:2 ,opi_loss 2.534310 time_cost1684.5672s RMSD:1.8381
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhB_/4.pdb
+ iter_result:3 ,opi_loss 2.517017 time_cost1688.6422s RMSD:1.8384
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhB_/5.pdb
+ iter_result:4 ,opi_loss 2.493630 time_cost1692.7220s RMSD:1.8392
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhB_/6.pdb
+ iter_result:5 ,opi_loss 2.523059 time_cost1696.8247s RMSD:1.8408
+
+***prtein:40***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2vyyA_/1.pdb
+ iter_result:0 ,opi_loss 2.799764 time_cost1702.7045s RMSD:3.0160
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2vyyA_/2.pdb
+ iter_result:1 ,opi_loss 2.781328 time_cost1709.4852s RMSD:3.0074
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2vyyA_/3.pdb
+ iter_result:2 ,opi_loss 2.734150 time_cost1715.2612s RMSD:2.9987
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2vyyA_/4.pdb
+ iter_result:3 ,opi_loss 2.731298 time_cost1721.0180s RMSD:2.9917
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2vyyA_/5.pdb
+ iter_result:4 ,opi_loss 2.692540 time_cost1726.7899s RMSD:2.9881
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2vyyA_/6.pdb
+ iter_result:5 ,opi_loss 2.686557 time_cost1732.6193s RMSD:2.9863
+
+***prtein:41***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mn8A_/1.pdb
+ iter_result:0 ,opi_loss 3.109759 time_cost1737.7269s RMSD:8.5654
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mn8A_/2.pdb
+ iter_result:1 ,opi_loss 3.111305 time_cost1742.5940s RMSD:8.5421
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mn8A_/3.pdb
+ iter_result:2 ,opi_loss 3.074905 time_cost1747.4317s RMSD:8.5203
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mn8A_/4.pdb
+ iter_result:3 ,opi_loss 3.056219 time_cost1752.2682s RMSD:8.5084
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mn8A_/5.pdb
+ iter_result:4 ,opi_loss 3.067470 time_cost1757.1299s RMSD:8.4960
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mn8A_/6.pdb
+ iter_result:5 ,opi_loss 3.083119 time_cost1762.0044s RMSD:8.4906
+
+***prtein:42***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a5v__/1.pdb
+ iter_result:0 ,opi_loss 3.046136 time_cost1770.2372s RMSD:4.1534
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a5v__/2.pdb
+ iter_result:1 ,opi_loss 3.029452 time_cost1778.3396s RMSD:4.1588
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a5v__/3.pdb
+ iter_result:2 ,opi_loss 3.025791 time_cost1786.3989s RMSD:4.1574
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a5v__/4.pdb
+ iter_result:3 ,opi_loss 2.988675 time_cost1794.5552s RMSD:4.1613
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a5v__/5.pdb
+ iter_result:4 ,opi_loss 2.981727 time_cost1802.6531s RMSD:4.1664
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a5v__/6.pdb
+ iter_result:5 ,opi_loss 2.973607 time_cost1810.7517s RMSD:4.1661
+
+***prtein:43***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2b5aA_/1.pdb
+ iter_result:0 ,opi_loss 2.214661 time_cost1814.9155s RMSD:1.9421
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2b5aA_/2.pdb
+ iter_result:1 ,opi_loss 2.214763 time_cost1818.7232s RMSD:1.9149
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2b5aA_/3.pdb
+ iter_result:2 ,opi_loss 2.225196 time_cost1822.4372s RMSD:1.8889
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2b5aA_/4.pdb
+ iter_result:3 ,opi_loss 2.217073 time_cost1826.1566s RMSD:1.8703
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2b5aA_/5.pdb
+ iter_result:4 ,opi_loss 2.252228 time_cost1829.8848s RMSD:1.8531
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2b5aA_/6.pdb
+ iter_result:5 ,opi_loss 2.237270 time_cost1833.6747s RMSD:1.8457
+
+***prtein:44***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rb8A_/1.pdb
+ iter_result:0 ,opi_loss 2.256300 time_cost1838.5062s RMSD:1.1956
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rb8A_/2.pdb
+ iter_result:1 ,opi_loss 2.259850 time_cost1843.1565s RMSD:1.1910
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rb8A_/3.pdb
+ iter_result:2 ,opi_loss 2.185599 time_cost1847.8370s RMSD:1.1945
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rb8A_/4.pdb
+ iter_result:3 ,opi_loss 2.189545 time_cost1852.5043s RMSD:1.2002
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rb8A_/5.pdb
+ iter_result:4 ,opi_loss 2.184954 time_cost1857.1732s RMSD:1.2063
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rb8A_/6.pdb
+ iter_result:5 ,opi_loss 2.183384 time_cost1861.8287s RMSD:1.2115
+
+***prtein:45***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ccwA_/1.pdb
+ iter_result:0 ,opi_loss 2.413365 time_cost1869.3727s RMSD:2.3648
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ccwA_/2.pdb
+ iter_result:1 ,opi_loss 2.399255 time_cost1876.7436s RMSD:2.3610
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ccwA_/3.pdb
+ iter_result:2 ,opi_loss 2.387961 time_cost1884.1977s RMSD:2.3587
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ccwA_/4.pdb
+ iter_result:3 ,opi_loss 2.387824 time_cost1891.5948s RMSD:2.3565
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ccwA_/5.pdb
+ iter_result:4 ,opi_loss 2.397544 time_cost1899.0590s RMSD:2.3552
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ccwA_/6.pdb
+ iter_result:5 ,opi_loss 2.398723 time_cost1906.5019s RMSD:2.3546
+
+***prtein:46***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rk3A_/1.pdb
+ iter_result:0 ,opi_loss 2.429953 time_cost1917.9837s RMSD:6.5559
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rk3A_/2.pdb
+ iter_result:1 ,opi_loss 2.432847 time_cost1929.1353s RMSD:6.5371
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rk3A_/3.pdb
+ iter_result:2 ,opi_loss 2.419311 time_cost1940.3006s RMSD:6.5428
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rk3A_/4.pdb
+ iter_result:3 ,opi_loss 2.429170 time_cost1951.3842s RMSD:6.5286
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rk3A_/5.pdb
+ iter_result:4 ,opi_loss 2.409510 time_cost1962.6611s RMSD:6.5264
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2rk3A_/6.pdb
+ iter_result:5 ,opi_loss 2.421684 time_cost1973.8253s RMSD:6.5200
+
+***prtein:47***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u2hA_/1.pdb
+ iter_result:0 ,opi_loss 2.036701 time_cost1979.1261s RMSD:0.8874
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u2hA_/2.pdb
+ iter_result:1 ,opi_loss 2.029435 time_cost1983.9349s RMSD:0.8859
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u2hA_/3.pdb
+ iter_result:2 ,opi_loss 2.065542 time_cost1988.6910s RMSD:0.8909
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u2hA_/4.pdb
+ iter_result:3 ,opi_loss 2.060523 time_cost1993.4505s RMSD:0.8978
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u2hA_/5.pdb
+ iter_result:4 ,opi_loss 2.052427 time_cost1998.2532s RMSD:0.9006
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u2hA_/6.pdb
+ iter_result:5 ,opi_loss 2.041029 time_cost2003.0197s RMSD:0.9032
+
+***prtein:48***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1l9lA_/1.pdb
+ iter_result:0 ,opi_loss 2.493711 time_cost2006.7722s RMSD:1.8955
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1l9lA_/2.pdb
+ iter_result:1 ,opi_loss 2.533264 time_cost2010.3012s RMSD:1.9001
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1l9lA_/3.pdb
+ iter_result:2 ,opi_loss 2.519437 time_cost2013.8419s RMSD:1.9054
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1l9lA_/4.pdb
+ iter_result:3 ,opi_loss 2.515177 time_cost2017.3940s RMSD:1.9102
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1l9lA_/5.pdb
+ iter_result:4 ,opi_loss 2.504710 time_cost2020.9105s RMSD:1.9159
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1l9lA_/6.pdb
+ iter_result:5 ,opi_loss 2.500897 time_cost2024.4612s RMSD:1.9213
+
+***prtein:49***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2iu5A_/1.pdb
+ iter_result:0 ,opi_loss 2.856434 time_cost2034.7940s RMSD:5.3931
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2iu5A_/2.pdb
+ iter_result:1 ,opi_loss 2.844794 time_cost2045.0370s RMSD:5.3871
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2iu5A_/3.pdb
+ iter_result:2 ,opi_loss 2.835892 time_cost2055.2550s RMSD:5.3785
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2iu5A_/4.pdb
+ iter_result:3 ,opi_loss 2.822958 time_cost2065.4991s RMSD:5.3714
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2iu5A_/5.pdb
+ iter_result:4 ,opi_loss 2.818942 time_cost2075.7882s RMSD:5.3634
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2iu5A_/6.pdb
+ iter_result:5 ,opi_loss 2.826374 time_cost2086.0109s RMSD:5.3540
+
+***prtein:50***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d01D_/1.pdb
+ iter_result:0 ,opi_loss 2.779812 time_cost2095.8764s RMSD:7.6958
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d01D_/2.pdb
+ iter_result:1 ,opi_loss 2.790048 time_cost2105.2916s RMSD:7.6851
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d01D_/3.pdb
+ iter_result:2 ,opi_loss 2.757887 time_cost2114.7111s RMSD:7.6833
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d01D_/4.pdb
+ iter_result:3 ,opi_loss 2.719245 time_cost2124.0782s RMSD:7.6726
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d01D_/5.pdb
+ iter_result:4 ,opi_loss 2.683367 time_cost2133.4397s RMSD:7.6799
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d01D_/6.pdb
+ iter_result:5 ,opi_loss 2.664438 time_cost2142.7462s RMSD:7.6898
+
+***prtein:51***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h4hA_/1.pdb
+ iter_result:0 ,opi_loss 2.876540 time_cost2155.3050s RMSD:3.8840
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h4hA_/2.pdb
+ iter_result:1 ,opi_loss 2.838124 time_cost2167.4298s RMSD:3.8500
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h4hA_/3.pdb
+ iter_result:2 ,opi_loss 2.837963 time_cost2179.5615s RMSD:3.8286
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h4hA_/4.pdb
+ iter_result:3 ,opi_loss 2.833329 time_cost2191.6551s RMSD:3.8052
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h4hA_/5.pdb
+ iter_result:4 ,opi_loss 2.877632 time_cost2203.7883s RMSD:3.8368
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1h4hA_/6.pdb
+ iter_result:5 ,opi_loss 2.855092 time_cost2215.8803s RMSD:3.8446
+
+***prtein:52***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eumA_/1.pdb
+ iter_result:0 ,opi_loss 2.602095 time_cost2225.0652s RMSD:1.1420
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eumA_/2.pdb
+ iter_result:1 ,opi_loss 2.590078 time_cost2233.8805s RMSD:1.1585
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eumA_/3.pdb
+ iter_result:2 ,opi_loss 2.588544 time_cost2242.6249s RMSD:1.1663
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eumA_/4.pdb
+ iter_result:3 ,opi_loss 2.580444 time_cost2251.3694s RMSD:1.1764
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eumA_/5.pdb
+ iter_result:4 ,opi_loss 2.595811 time_cost2260.0510s RMSD:1.1889
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eumA_/6.pdb
+ iter_result:5 ,opi_loss 2.602386 time_cost2268.7989s RMSD:1.2086
+
+***prtein:53***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mk0A_/1.pdb
+ iter_result:0 ,opi_loss 2.773018 time_cost2273.8118s RMSD:3.9266
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mk0A_/2.pdb
+ iter_result:1 ,opi_loss 2.776084 time_cost2278.4818s RMSD:3.9234
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mk0A_/3.pdb
+ iter_result:2 ,opi_loss 2.751432 time_cost2283.1376s RMSD:3.9198
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mk0A_/4.pdb
+ iter_result:3 ,opi_loss 2.775393 time_cost2287.7626s RMSD:3.9162
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mk0A_/5.pdb
+ iter_result:4 ,opi_loss 2.771276 time_cost2292.3919s RMSD:3.9139
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1mk0A_/6.pdb
+ iter_result:5 ,opi_loss 2.779716 time_cost2297.0128s RMSD:3.9122
+
+***prtein:54***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t7dA_/1.pdb
+ iter_result:0 ,opi_loss 3.990198 time_cost2309.3028s RMSD:16.7343
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t7dA_/2.pdb
+ iter_result:1 ,opi_loss 4.007697 time_cost2321.3555s RMSD:16.7125
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t7dA_/3.pdb
+ iter_result:2 ,opi_loss 3.985782 time_cost2333.4140s RMSD:16.6913
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t7dA_/4.pdb
+ iter_result:3 ,opi_loss 4.027688 time_cost2345.7496s RMSD:16.6997
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t7dA_/5.pdb
+ iter_result:4 ,opi_loss 4.024319 time_cost2358.1932s RMSD:16.7025
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t7dA_/6.pdb
+ iter_result:5 ,opi_loss 3.988076 time_cost2370.4839s RMSD:16.6931
+
+***prtein:55***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ip6A_/1.pdb
+ iter_result:0 ,opi_loss 2.458428 time_cost2375.0876s RMSD:1.1605
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ip6A_/2.pdb
+ iter_result:1 ,opi_loss 2.460920 time_cost2379.2039s RMSD:1.1684
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ip6A_/3.pdb
+ iter_result:2 ,opi_loss 2.462200 time_cost2383.2704s RMSD:1.1706
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ip6A_/4.pdb
+ iter_result:3 ,opi_loss 2.459059 time_cost2387.3410s RMSD:1.1720
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ip6A_/5.pdb
+ iter_result:4 ,opi_loss 2.461376 time_cost2391.4571s RMSD:1.1741
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ip6A_/6.pdb
+ iter_result:5 ,opi_loss 2.443429 time_cost2395.5318s RMSD:1.1767
+
+***prtein:56***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dzrA_/1.pdb
+ iter_result:0 ,opi_loss 2.710668 time_cost2405.8166s RMSD:9.0235
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dzrA_/2.pdb
+ iter_result:1 ,opi_loss 2.709731 time_cost2415.9918s RMSD:9.0330
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dzrA_/3.pdb
+ iter_result:2 ,opi_loss 2.738991 time_cost2426.2417s RMSD:9.0458
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dzrA_/4.pdb
+ iter_result:3 ,opi_loss 2.728435 time_cost2436.4789s RMSD:9.0527
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dzrA_/5.pdb
+ iter_result:4 ,opi_loss 2.740129 time_cost2446.7262s RMSD:9.0616
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dzrA_/6.pdb
+ iter_result:5 ,opi_loss 2.759187 time_cost2457.0929s RMSD:9.0758
+
+***prtein:57***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nlqA_/1.pdb
+ iter_result:0 ,opi_loss 3.204713 time_cost2462.6661s RMSD:6.2068
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nlqA_/2.pdb
+ iter_result:1 ,opi_loss 3.141119 time_cost2467.7663s RMSD:6.2169
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nlqA_/3.pdb
+ iter_result:2 ,opi_loss 3.100875 time_cost2472.8272s RMSD:6.2269
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nlqA_/4.pdb
+ iter_result:3 ,opi_loss 3.022803 time_cost2477.8759s RMSD:6.2420
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nlqA_/5.pdb
+ iter_result:4 ,opi_loss 3.017438 time_cost2482.9721s RMSD:6.2541
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nlqA_/6.pdb
+ iter_result:5 ,opi_loss 3.078328 time_cost2488.0457s RMSD:6.2699
+
+***prtein:58***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x6iA_/1.pdb
+ iter_result:0 ,opi_loss 2.582085 time_cost2492.4698s RMSD:3.1984
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x6iA_/2.pdb
+ iter_result:1 ,opi_loss 2.572948 time_cost2496.6591s RMSD:3.2005
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x6iA_/3.pdb
+ iter_result:2 ,opi_loss 2.569418 time_cost2500.8408s RMSD:3.2030
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x6iA_/4.pdb
+ iter_result:3 ,opi_loss 2.556256 time_cost2505.0522s RMSD:3.2050
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x6iA_/5.pdb
+ iter_result:4 ,opi_loss 2.567311 time_cost2509.2384s RMSD:3.2077
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x6iA_/6.pdb
+ iter_result:5 ,opi_loss 2.570302 time_cost2513.4291s RMSD:3.2108
+
+***prtein:59***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2o37A_/1.pdb
+ iter_result:0 ,opi_loss 2.483887 time_cost2517.3957s RMSD:5.6534
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2o37A_/2.pdb
+ iter_result:1 ,opi_loss 2.478085 time_cost2521.1292s RMSD:5.6561
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2o37A_/3.pdb
+ iter_result:2 ,opi_loss 2.476438 time_cost2524.8905s RMSD:5.6592
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2o37A_/4.pdb
+ iter_result:3 ,opi_loss 2.472885 time_cost2528.6316s RMSD:5.6616
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2o37A_/5.pdb
+ iter_result:4 ,opi_loss 2.472205 time_cost2532.3610s RMSD:5.6640
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2o37A_/6.pdb
+ iter_result:5 ,opi_loss 2.471238 time_cost2536.0930s RMSD:5.6663
+
+***prtein:60***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tzvA_/1.pdb
+ iter_result:0 ,opi_loss 2.788078 time_cost2543.5591s RMSD:4.1705
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tzvA_/2.pdb
+ iter_result:1 ,opi_loss 2.761884 time_cost2550.7804s RMSD:4.1587
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tzvA_/3.pdb
+ iter_result:2 ,opi_loss 2.767232 time_cost2558.0387s RMSD:4.1557
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tzvA_/4.pdb
+ iter_result:3 ,opi_loss 2.732472 time_cost2565.3357s RMSD:4.1602
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tzvA_/5.pdb
+ iter_result:4 ,opi_loss 2.725708 time_cost2572.5969s RMSD:4.1665
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tzvA_/6.pdb
+ iter_result:5 ,opi_loss 2.734810 time_cost2579.8602s RMSD:4.1641
+
+***prtein:61***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d2uA_/1.pdb
+ iter_result:0 ,opi_loss 3.160338 time_cost2590.3968s RMSD:5.0313
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d2uA_/2.pdb
+ iter_result:1 ,opi_loss 3.136305 time_cost2600.6966s RMSD:5.0517
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d2uA_/3.pdb
+ iter_result:2 ,opi_loss 3.107147 time_cost2611.0036s RMSD:5.0816
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d2uA_/4.pdb
+ iter_result:3 ,opi_loss 3.147559 time_cost2621.3163s RMSD:5.0779
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d2uA_/5.pdb
+ iter_result:4 ,opi_loss 3.121801 time_cost2631.6260s RMSD:5.0806
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d2uA_/6.pdb
+ iter_result:5 ,opi_loss 3.155387 time_cost2641.9251s RMSD:5.0949
+
+***prtein:62***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t1vA_/1.pdb
+ iter_result:0 ,opi_loss 2.547348 time_cost2646.7302s RMSD:2.3929
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t1vA_/2.pdb
+ iter_result:1 ,opi_loss 2.529200 time_cost2651.1559s RMSD:2.3776
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t1vA_/3.pdb
+ iter_result:2 ,opi_loss 2.503458 time_cost2655.5176s RMSD:2.3641
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t1vA_/4.pdb
+ iter_result:3 ,opi_loss 2.505033 time_cost2659.8872s RMSD:2.3602
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t1vA_/5.pdb
+ iter_result:4 ,opi_loss 2.516495 time_cost2664.2675s RMSD:2.3584
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1t1vA_/6.pdb
+ iter_result:5 ,opi_loss 2.513787 time_cost2668.6521s RMSD:2.3594
+
+***prtein:63***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bfoA_/1.pdb
+ iter_result:0 ,opi_loss 2.486344 time_cost2672.8204s RMSD:1.4124
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bfoA_/2.pdb
+ iter_result:1 ,opi_loss 2.496772 time_cost2676.7729s RMSD:1.4121
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bfoA_/3.pdb
+ iter_result:2 ,opi_loss 2.505882 time_cost2680.7212s RMSD:1.4143
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bfoA_/4.pdb
+ iter_result:3 ,opi_loss 2.498590 time_cost2684.6747s RMSD:1.4138
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bfoA_/5.pdb
+ iter_result:4 ,opi_loss 2.491565 time_cost2688.6241s RMSD:1.4127
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bfoA_/6.pdb
+ iter_result:5 ,opi_loss 2.505956 time_cost2692.5726s RMSD:1.4141
+
+***prtein:64***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2fcwA_/1.pdb
+ iter_result:0 ,opi_loss 2.661323 time_cost2697.8961s RMSD:3.4147
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2fcwA_/2.pdb
+ iter_result:1 ,opi_loss 2.652815 time_cost2703.0086s RMSD:3.4098
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2fcwA_/3.pdb
+ iter_result:2 ,opi_loss 2.642471 time_cost2708.1285s RMSD:3.4053
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2fcwA_/4.pdb
+ iter_result:3 ,opi_loss 2.636293 time_cost2713.2528s RMSD:3.4003
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2fcwA_/5.pdb
+ iter_result:4 ,opi_loss 2.644108 time_cost2718.4038s RMSD:3.3954
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2fcwA_/6.pdb
+ iter_result:5 ,opi_loss 2.633439 time_cost2723.5314s RMSD:3.3895
+
+***prtein:65***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tugB_/1.pdb
+ iter_result:0 ,opi_loss 2.842098 time_cost2731.8228s RMSD:10.8029
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tugB_/2.pdb
+ iter_result:1 ,opi_loss 2.846834 time_cost2739.8994s RMSD:10.7868
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tugB_/3.pdb
+ iter_result:2 ,opi_loss 2.837864 time_cost2747.9778s RMSD:10.7706
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tugB_/4.pdb
+ iter_result:3 ,opi_loss 2.824101 time_cost2756.0852s RMSD:10.7604
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tugB_/5.pdb
+ iter_result:4 ,opi_loss 2.813650 time_cost2764.1787s RMSD:10.7500
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tugB_/6.pdb
+ iter_result:5 ,opi_loss 2.813072 time_cost2772.2948s RMSD:10.7419
+
+***prtein:66***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1w53A_/1.pdb
+ iter_result:0 ,opi_loss 2.757703 time_cost2776.4934s RMSD:5.4023
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1w53A_/2.pdb
+ iter_result:1 ,opi_loss 2.752468 time_cost2780.3849s RMSD:5.4018
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1w53A_/3.pdb
+ iter_result:2 ,opi_loss 2.760461 time_cost2784.2633s RMSD:5.3988
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1w53A_/4.pdb
+ iter_result:3 ,opi_loss 2.736744 time_cost2788.1424s RMSD:5.4107
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1w53A_/5.pdb
+ iter_result:4 ,opi_loss 2.705355 time_cost2792.0189s RMSD:5.4168
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1w53A_/6.pdb
+ iter_result:5 ,opi_loss 2.700858 time_cost2795.9368s RMSD:5.4216
+
+***prtein:67***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhA_/1.pdb
+ iter_result:0 ,opi_loss 2.604105 time_cost2799.9999s RMSD:1.3425
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhA_/2.pdb
+ iter_result:1 ,opi_loss 2.600045 time_cost2803.8289s RMSD:1.3454
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhA_/3.pdb
+ iter_result:2 ,opi_loss 2.569685 time_cost2807.6687s RMSD:1.3487
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhA_/4.pdb
+ iter_result:3 ,opi_loss 2.562920 time_cost2811.5044s RMSD:1.3517
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhA_/5.pdb
+ iter_result:4 ,opi_loss 2.551150 time_cost2815.3416s RMSD:1.3556
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wmhA_/6.pdb
+ iter_result:5 ,opi_loss 2.557970 time_cost2819.2029s RMSD:1.3602
+
+***prtein:68***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xppA_/1.pdb
+ iter_result:0 ,opi_loss 2.580271 time_cost2824.1075s RMSD:2.5529
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xppA_/2.pdb
+ iter_result:1 ,opi_loss 2.542989 time_cost2828.8041s RMSD:2.5548
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xppA_/3.pdb
+ iter_result:2 ,opi_loss 2.554719 time_cost2833.5038s RMSD:2.5573
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xppA_/4.pdb
+ iter_result:3 ,opi_loss 2.524091 time_cost2838.2353s RMSD:2.5608
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xppA_/5.pdb
+ iter_result:4 ,opi_loss 2.517269 time_cost2842.9513s RMSD:2.5664
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xppA_/6.pdb
+ iter_result:5 ,opi_loss 2.509145 time_cost2847.6518s RMSD:2.5712
+
+***prtein:69***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d0iA_/1.pdb
+ iter_result:0 ,opi_loss 2.717106 time_cost2855.6753s RMSD:4.7540
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d0iA_/2.pdb
+ iter_result:1 ,opi_loss 2.710805 time_cost2863.5524s RMSD:4.7518
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d0iA_/3.pdb
+ iter_result:2 ,opi_loss 2.711154 time_cost2871.4276s RMSD:4.7554
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d0iA_/4.pdb
+ iter_result:3 ,opi_loss 2.728976 time_cost2879.3448s RMSD:4.7601
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d0iA_/5.pdb
+ iter_result:4 ,opi_loss 2.722881 time_cost2887.2464s RMSD:4.7616
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d0iA_/6.pdb
+ iter_result:5 ,opi_loss 2.739262 time_cost2895.1696s RMSD:4.7658
+
+***prtein:70***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a00A_/1.pdb
+ iter_result:0 ,opi_loss 2.429809 time_cost2907.3350s RMSD:1.4587
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a00A_/2.pdb
+ iter_result:1 ,opi_loss 2.487740 time_cost2914.6069s RMSD:1.4709
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a00A_/3.pdb
+ iter_result:2 ,opi_loss 2.459486 time_cost2921.8901s RMSD:1.4975
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a00A_/4.pdb
+ iter_result:3 ,opi_loss 2.484281 time_cost2929.1313s RMSD:1.4988
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a00A_/5.pdb
+ iter_result:4 ,opi_loss 2.509979 time_cost2936.4190s RMSD:1.5149
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a00A_/6.pdb
+ iter_result:5 ,opi_loss 2.458893 time_cost2943.6689s RMSD:1.5009
+
+***prtein:71***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2c92A_/1.pdb
+ iter_result:0 ,opi_loss 2.498562 time_cost2959.6633s RMSD:2.8482
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2c92A_/2.pdb
+ iter_result:1 ,opi_loss 2.514792 time_cost2967.3254s RMSD:2.8566
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2c92A_/3.pdb
+ iter_result:2 ,opi_loss 2.456409 time_cost2974.9662s RMSD:2.8727
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2c92A_/4.pdb
+ iter_result:3 ,opi_loss 2.464035 time_cost2982.6633s RMSD:2.8681
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2c92A_/5.pdb
+ iter_result:4 ,opi_loss 2.458427 time_cost2990.3202s RMSD:2.8854
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2c92A_/6.pdb
+ iter_result:5 ,opi_loss 2.450959 time_cost2997.9601s RMSD:2.8874
+
+***prtein:72***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2zs0D_/1.pdb
+ iter_result:0 ,opi_loss 2.704744 time_cost3005.7611s RMSD:1.5858
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2zs0D_/2.pdb
+ iter_result:1 ,opi_loss 2.714479 time_cost3013.2818s RMSD:1.5945
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2zs0D_/3.pdb
+ iter_result:2 ,opi_loss 2.691519 time_cost3020.8533s RMSD:1.5986
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2zs0D_/4.pdb
+ iter_result:3 ,opi_loss 2.698120 time_cost3028.4046s RMSD:1.6049
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2zs0D_/5.pdb
+ iter_result:4 ,opi_loss 2.712599 time_cost3036.0135s RMSD:1.6050
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2zs0D_/6.pdb
+ iter_result:5 ,opi_loss 2.729689 time_cost3043.5618s RMSD:1.6172
+
+***prtein:73***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2p6wA_/1.pdb
+ iter_result:0 ,opi_loss 2.876839 time_cost3055.7503s RMSD:5.4925
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2p6wA_/2.pdb
+ iter_result:1 ,opi_loss 2.868584 time_cost3067.7909s RMSD:5.5277
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2p6wA_/3.pdb
+ iter_result:2 ,opi_loss 2.861954 time_cost3079.7040s RMSD:5.5548
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2p6wA_/4.pdb
+ iter_result:3 ,opi_loss 2.875809 time_cost3091.8257s RMSD:5.5796
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2p6wA_/5.pdb
+ iter_result:4 ,opi_loss 2.889208 time_cost3104.0631s RMSD:5.6068
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2p6wA_/6.pdb
+ iter_result:5 ,opi_loss 2.884347 time_cost3116.2585s RMSD:5.6291
+
+***prtein:74***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pmrA_/1.pdb
+ iter_result:0 ,opi_loss 2.467053 time_cost3120.2621s RMSD:2.3744
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pmrA_/2.pdb
+ iter_result:1 ,opi_loss 2.496940 time_cost3123.7323s RMSD:2.3492
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pmrA_/3.pdb
+ iter_result:2 ,opi_loss 2.455027 time_cost3127.2149s RMSD:2.3287
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pmrA_/4.pdb
+ iter_result:3 ,opi_loss 2.453407 time_cost3130.6729s RMSD:2.3286
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pmrA_/5.pdb
+ iter_result:4 ,opi_loss 2.461128 time_cost3134.1250s RMSD:2.3260
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pmrA_/6.pdb
+ iter_result:5 ,opi_loss 2.462891 time_cost3137.5797s RMSD:2.3257
+
+***prtein:75***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j3wA_/1.pdb
+ iter_result:0 ,opi_loss 2.653683 time_cost3144.5003s RMSD:2.3676
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j3wA_/2.pdb
+ iter_result:1 ,opi_loss 2.644550 time_cost3151.2541s RMSD:2.3671
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j3wA_/3.pdb
+ iter_result:2 ,opi_loss 2.617406 time_cost3158.0346s RMSD:2.3675
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j3wA_/4.pdb
+ iter_result:3 ,opi_loss 2.582792 time_cost3164.8510s RMSD:2.3696
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j3wA_/5.pdb
+ iter_result:4 ,opi_loss 2.589344 time_cost3171.6626s RMSD:2.3748
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1j3wA_/6.pdb
+ iter_result:5 ,opi_loss 2.590111 time_cost3178.4931s RMSD:2.3830
+
+***prtein:76***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3d9nA_/1.pdb
+ iter_result:0 ,opi_loss 2.708230 time_cost3185.8089s RMSD:1.9600
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3d9nA_/2.pdb
+ iter_result:1 ,opi_loss 2.713094 time_cost3192.8882s RMSD:1.9523
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3d9nA_/3.pdb
+ iter_result:2 ,opi_loss 2.703941 time_cost3199.9921s RMSD:1.9487
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3d9nA_/4.pdb
+ iter_result:3 ,opi_loss 2.712162 time_cost3207.0680s RMSD:1.9466
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3d9nA_/5.pdb
+ iter_result:4 ,opi_loss 2.713195 time_cost3214.1536s RMSD:1.9429
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3d9nA_/6.pdb
+ iter_result:5 ,opi_loss 2.712517 time_cost3221.2588s RMSD:1.9394
+
+***prtein:77***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1afqC_/1.pdb
+ iter_result:0 ,opi_loss 2.663132 time_cost3226.0845s RMSD:2.1792
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1afqC_/2.pdb
+ iter_result:1 ,opi_loss 2.671062 time_cost3230.6482s RMSD:2.1721
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1afqC_/3.pdb
+ iter_result:2 ,opi_loss 2.630969 time_cost3235.1905s RMSD:2.1678
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1afqC_/4.pdb
+ iter_result:3 ,opi_loss 2.589988 time_cost3239.7533s RMSD:2.1639
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1afqC_/5.pdb
+ iter_result:4 ,opi_loss 2.587759 time_cost3244.2929s RMSD:2.1588
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1afqC_/6.pdb
+ iter_result:5 ,opi_loss 2.578354 time_cost3248.8232s RMSD:2.1537
+
+***prtein:78***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gxuA_/1.pdb
+ iter_result:0 ,opi_loss 3.245332 time_cost3253.1305s RMSD:3.1087
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gxuA_/2.pdb
+ iter_result:1 ,opi_loss 3.253055 time_cost3257.2411s RMSD:3.1351
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gxuA_/3.pdb
+ iter_result:2 ,opi_loss 3.309881 time_cost3261.3617s RMSD:3.1510
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gxuA_/4.pdb
+ iter_result:3 ,opi_loss 3.239483 time_cost3265.4592s RMSD:3.1579
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gxuA_/5.pdb
+ iter_result:4 ,opi_loss 3.224693 time_cost3269.5583s RMSD:3.1682
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gxuA_/6.pdb
+ iter_result:5 ,opi_loss 3.134512 time_cost3273.6546s RMSD:3.1893
+
+***prtein:79***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tp6A_/1.pdb
+ iter_result:0 ,opi_loss 2.849647 time_cost3280.1301s RMSD:3.5266
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tp6A_/2.pdb
+ iter_result:1 ,opi_loss 2.864692 time_cost3286.3758s RMSD:3.5402
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tp6A_/3.pdb
+ iter_result:2 ,opi_loss 2.801524 time_cost3292.6401s RMSD:3.5563
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tp6A_/4.pdb
+ iter_result:3 ,opi_loss 2.788759 time_cost3298.9161s RMSD:3.5736
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tp6A_/5.pdb
+ iter_result:4 ,opi_loss 2.773917 time_cost3305.2421s RMSD:3.5878
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tp6A_/6.pdb
+ iter_result:5 ,opi_loss 2.765297 time_cost3311.5214s RMSD:3.5982
+
+***prtein:80***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elrA_/1.pdb
+ iter_result:0 ,opi_loss 2.292491 time_cost3318.6324s RMSD:1.9145
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elrA_/2.pdb
+ iter_result:1 ,opi_loss 2.298300 time_cost3325.0739s RMSD:1.9172
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elrA_/3.pdb
+ iter_result:2 ,opi_loss 2.287530 time_cost3331.4866s RMSD:1.9193
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elrA_/4.pdb
+ iter_result:3 ,opi_loss 2.276590 time_cost3337.9487s RMSD:1.9215
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elrA_/5.pdb
+ iter_result:4 ,opi_loss 2.267855 time_cost3344.3872s RMSD:1.9230
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elrA_/6.pdb
+ iter_result:5 ,opi_loss 2.274188 time_cost3350.8062s RMSD:1.9249
+
+***prtein:81***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/1.pdb
+ iter_result:0 ,opi_loss 2.683742 time_cost3356.6788s RMSD:7.0413
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/2.pdb
+ iter_result:1 ,opi_loss 2.705470 time_cost3362.3318s RMSD:7.0580
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/3.pdb
+ iter_result:2 ,opi_loss 2.670337 time_cost3367.9611s RMSD:7.0644
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/4.pdb
+ iter_result:3 ,opi_loss 2.604071 time_cost3373.5522s RMSD:7.0719
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/5.pdb
+ iter_result:4 ,opi_loss 2.616288 time_cost3379.2090s RMSD:7.0733
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1be9A_/6.pdb
+ iter_result:5 ,opi_loss 2.618976 time_cost3384.8152s RMSD:7.0694
+
+***prtein:82***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u84A_/1.pdb
+ iter_result:0 ,opi_loss 2.822372 time_cost3388.7470s RMSD:5.0654
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u84A_/2.pdb
+ iter_result:1 ,opi_loss 2.784732 time_cost3392.4497s RMSD:5.0646
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u84A_/3.pdb
+ iter_result:2 ,opi_loss 2.772315 time_cost3396.1374s RMSD:5.0653
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u84A_/4.pdb
+ iter_result:3 ,opi_loss 2.790067 time_cost3399.8244s RMSD:5.0660
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u84A_/5.pdb
+ iter_result:4 ,opi_loss 2.792257 time_cost3403.5461s RMSD:5.0666
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u84A_/6.pdb
+ iter_result:5 ,opi_loss 2.774477 time_cost3407.2348s RMSD:5.0665
+
+***prtein:83***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cv8__/1.pdb
+ iter_result:0 ,opi_loss 3.010759 time_cost3416.6839s RMSD:8.2838
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cv8__/2.pdb
+ iter_result:1 ,opi_loss 2.986234 time_cost3426.0267s RMSD:8.2964
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cv8__/3.pdb
+ iter_result:2 ,opi_loss 2.964589 time_cost3435.4323s RMSD:8.3012
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cv8__/4.pdb
+ iter_result:3 ,opi_loss 2.964634 time_cost3444.8104s RMSD:8.3000
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cv8__/5.pdb
+ iter_result:4 ,opi_loss 2.964425 time_cost3454.2363s RMSD:8.3039
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cv8__/6.pdb
+ iter_result:5 ,opi_loss 2.983693 time_cost3463.6360s RMSD:8.3058
+
+***prtein:84***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ifrA_/1.pdb
+ iter_result:0 ,opi_loss 3.336204 time_cost3475.7287s RMSD:8.9504
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ifrA_/2.pdb
+ iter_result:1 ,opi_loss 3.314757 time_cost3487.5185s RMSD:8.9270
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ifrA_/3.pdb
+ iter_result:2 ,opi_loss 3.323795 time_cost3499.3636s RMSD:8.8884
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ifrA_/4.pdb
+ iter_result:3 ,opi_loss 3.372266 time_cost3511.1748s RMSD:8.8574
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ifrA_/5.pdb
+ iter_result:4 ,opi_loss 3.405998 time_cost3523.0613s RMSD:8.8604
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ifrA_/6.pdb
+ iter_result:5 ,opi_loss 3.363646 time_cost3534.8197s RMSD:8.8641
+
+***prtein:85***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b66A_/1.pdb
+ iter_result:0 ,opi_loss 3.061263 time_cost3542.5976s RMSD:3.8925
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b66A_/2.pdb
+ iter_result:1 ,opi_loss 3.060622 time_cost3549.6966s RMSD:3.9108
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b66A_/3.pdb
+ iter_result:2 ,opi_loss 3.049450 time_cost3556.8186s RMSD:3.9345
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b66A_/4.pdb
+ iter_result:3 ,opi_loss 3.019395 time_cost3563.8918s RMSD:3.9409
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b66A_/5.pdb
+ iter_result:4 ,opi_loss 3.019422 time_cost3570.9889s RMSD:3.9466
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1b66A_/6.pdb
+ iter_result:5 ,opi_loss 3.022232 time_cost3578.1140s RMSD:3.9588
+
+***prtein:86***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ev1A_/1.pdb
+ iter_result:0 ,opi_loss 3.141771 time_cost3588.7102s RMSD:16.9916
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ev1A_/2.pdb
+ iter_result:1 ,opi_loss 3.115683 time_cost3599.1167s RMSD:16.9704
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ev1A_/3.pdb
+ iter_result:2 ,opi_loss 3.119156 time_cost3609.5260s RMSD:16.9618
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ev1A_/4.pdb
+ iter_result:3 ,opi_loss 3.108792 time_cost3619.9198s RMSD:16.9534
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ev1A_/5.pdb
+ iter_result:4 ,opi_loss 3.084333 time_cost3630.3650s RMSD:16.9452
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ev1A_/6.pdb
+ iter_result:5 ,opi_loss 3.077601 time_cost3640.7722s RMSD:16.9366
+
+***prtein:87***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ds7A_/1.pdb
+ iter_result:0 ,opi_loss 2.556666 time_cost3653.8697s RMSD:2.7615
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ds7A_/2.pdb
+ iter_result:1 ,opi_loss 2.549596 time_cost3666.8061s RMSD:2.7720
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ds7A_/3.pdb
+ iter_result:2 ,opi_loss 2.608353 time_cost3679.7745s RMSD:2.7970
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ds7A_/4.pdb
+ iter_result:3 ,opi_loss 2.564247 time_cost3692.6187s RMSD:2.8024
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ds7A_/5.pdb
+ iter_result:4 ,opi_loss 2.565794 time_cost3705.4592s RMSD:2.8276
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ds7A_/6.pdb
+ iter_result:5 ,opi_loss 2.593149 time_cost3718.3219s RMSD:2.8476
+
+***prtein:88***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elwA_/1.pdb
+ iter_result:0 ,opi_loss 2.484550 time_cost3724.7332s RMSD:1.5194
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elwA_/2.pdb
+ iter_result:1 ,opi_loss 2.479192 time_cost3730.5724s RMSD:1.5145
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elwA_/3.pdb
+ iter_result:2 ,opi_loss 2.465191 time_cost3736.3728s RMSD:1.5106
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elwA_/4.pdb
+ iter_result:3 ,opi_loss 2.461721 time_cost3742.1698s RMSD:1.5069
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elwA_/5.pdb
+ iter_result:4 ,opi_loss 2.470530 time_cost3748.0056s RMSD:1.5033
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elwA_/6.pdb
+ iter_result:5 ,opi_loss 2.471442 time_cost3753.8102s RMSD:1.5004
+
+***prtein:89***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ufyA_/1.pdb
+ iter_result:0 ,opi_loss 2.994942 time_cost3760.0590s RMSD:6.2022
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ufyA_/2.pdb
+ iter_result:1 ,opi_loss 2.922401 time_cost3766.1358s RMSD:6.2631
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ufyA_/3.pdb
+ iter_result:2 ,opi_loss 2.881999 time_cost3772.1898s RMSD:6.3109
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ufyA_/4.pdb
+ iter_result:3 ,opi_loss 2.913387 time_cost3778.2197s RMSD:6.3578
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ufyA_/5.pdb
+ iter_result:4 ,opi_loss 2.863592 time_cost3784.2587s RMSD:6.3861
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ufyA_/6.pdb
+ iter_result:5 ,opi_loss 2.806087 time_cost3790.3178s RMSD:6.3806
+
+***prtein:90***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y3dI_/1.pdb
+ iter_result:0 ,opi_loss 3.355382 time_cost3793.4610s RMSD:5.9913
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y3dI_/2.pdb
+ iter_result:1 ,opi_loss 3.422341 time_cost3796.3557s RMSD:5.9820
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y3dI_/3.pdb
+ iter_result:2 ,opi_loss 3.392884 time_cost3799.2412s RMSD:5.9759
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y3dI_/4.pdb
+ iter_result:3 ,opi_loss 3.409225 time_cost3802.1193s RMSD:5.9702
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y3dI_/5.pdb
+ iter_result:4 ,opi_loss 3.458571 time_cost3805.0019s RMSD:5.9683
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y3dI_/6.pdb
+ iter_result:5 ,opi_loss 3.394804 time_cost3807.8803s RMSD:5.9680
+
+***prtein:91***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u55A_/1.pdb
+ iter_result:0 ,opi_loss 2.663974 time_cost3818.6649s RMSD:2.9301
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u55A_/2.pdb
+ iter_result:1 ,opi_loss 2.637608 time_cost3829.1738s RMSD:2.9287
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u55A_/3.pdb
+ iter_result:2 ,opi_loss 2.613627 time_cost3839.7513s RMSD:2.9312
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u55A_/4.pdb
+ iter_result:3 ,opi_loss 2.608169 time_cost3850.3354s RMSD:2.9307
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u55A_/5.pdb
+ iter_result:4 ,opi_loss 2.596498 time_cost3860.9478s RMSD:2.9311
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1u55A_/6.pdb
+ iter_result:5 ,opi_loss 2.588960 time_cost3871.5405s RMSD:2.9335
+
+***prtein:92***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqpA_/1.pdb
+ iter_result:0 ,opi_loss 2.606620 time_cost3875.5982s RMSD:1.9198
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqpA_/2.pdb
+ iter_result:1 ,opi_loss 2.626790 time_cost3879.2691s RMSD:1.8999
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqpA_/3.pdb
+ iter_result:2 ,opi_loss 2.677788 time_cost3882.9557s RMSD:1.8874
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqpA_/4.pdb
+ iter_result:3 ,opi_loss 2.644293 time_cost3886.6000s RMSD:1.8792
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqpA_/5.pdb
+ iter_result:4 ,opi_loss 2.627417 time_cost3890.2505s RMSD:1.8762
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3bqpA_/6.pdb
+ iter_result:5 ,opi_loss 2.620451 time_cost3893.9051s RMSD:1.8775
+
+***prtein:93***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2gkgA_/1.pdb
+ iter_result:0 ,opi_loss 2.302208 time_cost3900.4375s RMSD:2.7080
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2gkgA_/2.pdb
+ iter_result:1 ,opi_loss 2.229438 time_cost3906.5316s RMSD:2.7040
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2gkgA_/3.pdb
+ iter_result:2 ,opi_loss 2.226151 time_cost3912.5944s RMSD:2.6983
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2gkgA_/4.pdb
+ iter_result:3 ,opi_loss 2.226790 time_cost3918.6407s RMSD:2.6932
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2gkgA_/5.pdb
+ iter_result:4 ,opi_loss 2.244475 time_cost3924.7354s RMSD:2.6907
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2gkgA_/6.pdb
+ iter_result:5 ,opi_loss 2.245498 time_cost3930.8050s RMSD:2.6877
+
+***prtein:94***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eyhA_/1.pdb
+ iter_result:0 ,opi_loss 2.823292 time_cost3938.4939s RMSD:5.0274
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eyhA_/2.pdb
+ iter_result:1 ,opi_loss 2.829807 time_cost3945.9951s RMSD:5.0374
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eyhA_/3.pdb
+ iter_result:2 ,opi_loss 2.830587 time_cost3953.4735s RMSD:5.0480
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eyhA_/4.pdb
+ iter_result:3 ,opi_loss 2.829304 time_cost3960.9726s RMSD:5.0549
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eyhA_/5.pdb
+ iter_result:4 ,opi_loss 2.830519 time_cost3968.4458s RMSD:5.0619
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eyhA_/6.pdb
+ iter_result:5 ,opi_loss 2.833127 time_cost3975.9213s RMSD:5.0694
+
+***prtein:95***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1g5tA_/1.pdb
+ iter_result:0 ,opi_loss 3.035104 time_cost3984.5954s RMSD:3.3317
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1g5tA_/2.pdb
+ iter_result:1 ,opi_loss 3.029404 time_cost3992.9379s RMSD:3.3300
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1g5tA_/3.pdb
+ iter_result:2 ,opi_loss 3.056563 time_cost4001.3532s RMSD:3.3271
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1g5tA_/4.pdb
+ iter_result:3 ,opi_loss 3.042194 time_cost4009.7294s RMSD:3.3380
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1g5tA_/5.pdb
+ iter_result:4 ,opi_loss 3.028760 time_cost4018.1289s RMSD:3.3399
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1g5tA_/6.pdb
+ iter_result:5 ,opi_loss 3.018620 time_cost4026.4933s RMSD:3.3492
+
+***prtein:96***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nwaA_/1.pdb
+ iter_result:0 ,opi_loss 3.074559 time_cost4035.9556s RMSD:16.4104
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nwaA_/2.pdb
+ iter_result:1 ,opi_loss 3.063959 time_cost4045.0949s RMSD:16.3994
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nwaA_/3.pdb
+ iter_result:2 ,opi_loss 3.058141 time_cost4054.2565s RMSD:16.3886
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nwaA_/4.pdb
+ iter_result:3 ,opi_loss 3.057515 time_cost4063.4083s RMSD:16.3781
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nwaA_/5.pdb
+ iter_result:4 ,opi_loss 3.062383 time_cost4072.5772s RMSD:16.3674
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1nwaA_/6.pdb
+ iter_result:5 ,opi_loss 3.053778 time_cost4081.7477s RMSD:16.3580
+
+***prtein:97***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1sz7A_/1.pdb
+ iter_result:0 ,opi_loss 2.910394 time_cost4090.5678s RMSD:3.6159
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1sz7A_/2.pdb
+ iter_result:1 ,opi_loss 2.905153 time_cost4099.1285s RMSD:3.6206
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1sz7A_/3.pdb
+ iter_result:2 ,opi_loss 2.940833 time_cost4107.6598s RMSD:3.6222
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1sz7A_/4.pdb
+ iter_result:3 ,opi_loss 2.939147 time_cost4116.2093s RMSD:3.6276
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1sz7A_/5.pdb
+ iter_result:4 ,opi_loss 2.939732 time_cost4124.7404s RMSD:3.6350
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1sz7A_/6.pdb
+ iter_result:5 ,opi_loss 2.939903 time_cost4133.2498s RMSD:3.6570
+
+***prtein:98***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d8uA_/1.pdb
+ iter_result:0 ,opi_loss 2.566802 time_cost4142.4933s RMSD:3.4803
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d8uA_/2.pdb
+ iter_result:1 ,opi_loss 2.560132 time_cost4151.4381s RMSD:3.4843
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d8uA_/3.pdb
+ iter_result:2 ,opi_loss 2.524156 time_cost4160.3794s RMSD:3.4970
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d8uA_/4.pdb
+ iter_result:3 ,opi_loss 2.531324 time_cost4169.3526s RMSD:3.4970
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d8uA_/5.pdb
+ iter_result:4 ,opi_loss 2.514807 time_cost4178.2776s RMSD:3.5231
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d8uA_/6.pdb
+ iter_result:5 ,opi_loss 2.504203 time_cost4187.2520s RMSD:3.5276
+
+***prtein:99***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v2pA_/1.pdb
+ iter_result:0 ,opi_loss 2.588216 time_cost4196.8363s RMSD:1.7395
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v2pA_/2.pdb
+ iter_result:1 ,opi_loss 2.555688 time_cost4206.1636s RMSD:1.7358
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v2pA_/3.pdb
+ iter_result:2 ,opi_loss 2.572322 time_cost4215.4494s RMSD:1.7363
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v2pA_/4.pdb
+ iter_result:3 ,opi_loss 2.566166 time_cost4224.7559s RMSD:1.7397
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v2pA_/5.pdb
+ iter_result:4 ,opi_loss 2.568257 time_cost4234.0540s RMSD:1.7369
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2v2pA_/6.pdb
+ iter_result:5 ,opi_loss 2.570126 time_cost4243.3788s RMSD:1.7393
+
+***prtein:100***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uuyA_/1.pdb
+ iter_result:0 ,opi_loss 2.320957 time_cost4252.4265s RMSD:1.8435
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uuyA_/2.pdb
+ iter_result:1 ,opi_loss 2.309836 time_cost4261.1488s RMSD:1.8450
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uuyA_/3.pdb
+ iter_result:2 ,opi_loss 2.322796 time_cost4269.8283s RMSD:1.8471
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uuyA_/4.pdb
+ iter_result:3 ,opi_loss 2.316228 time_cost4278.5288s RMSD:1.8419
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uuyA_/5.pdb
+ iter_result:4 ,opi_loss 2.322072 time_cost4287.1964s RMSD:1.8382
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uuyA_/6.pdb
+ iter_result:5 ,opi_loss 2.301413 time_cost4295.8883s RMSD:1.8364
+
+***prtein:101***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e6iA_/1.pdb
+ iter_result:0 ,opi_loss 2.680002 time_cost4301.5610s RMSD:2.8039
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e6iA_/2.pdb
+ iter_result:1 ,opi_loss 2.663805 time_cost4306.9333s RMSD:2.7884
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e6iA_/3.pdb
+ iter_result:2 ,opi_loss 2.675193 time_cost4312.3191s RMSD:2.7752
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e6iA_/4.pdb
+ iter_result:3 ,opi_loss 2.666062 time_cost4317.6587s RMSD:2.7714
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e6iA_/5.pdb
+ iter_result:4 ,opi_loss 2.660087 time_cost4323.0033s RMSD:2.7652
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e6iA_/6.pdb
+ iter_result:5 ,opi_loss 2.654653 time_cost4328.3508s RMSD:2.7670
+
+***prtein:102***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bvqA_/1.pdb
+ iter_result:0 ,opi_loss 2.800838 time_cost4335.6941s RMSD:2.3793
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bvqA_/2.pdb
+ iter_result:1 ,opi_loss 2.788751 time_cost4342.8065s RMSD:2.3931
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bvqA_/3.pdb
+ iter_result:2 ,opi_loss 2.785818 time_cost4349.9678s RMSD:2.3982
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bvqA_/4.pdb
+ iter_result:3 ,opi_loss 2.773624 time_cost4357.0994s RMSD:2.4001
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bvqA_/5.pdb
+ iter_result:4 ,opi_loss 2.785945 time_cost4364.2626s RMSD:2.4125
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bvqA_/6.pdb
+ iter_result:5 ,opi_loss 2.796950 time_cost4371.4296s RMSD:2.4254
+
+***prtein:103***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2chhA_/1.pdb
+ iter_result:0 ,opi_loss 3.358875 time_cost4377.2321s RMSD:8.8581
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2chhA_/2.pdb
+ iter_result:1 ,opi_loss 3.322373 time_cost4382.7910s RMSD:8.9099
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2chhA_/3.pdb
+ iter_result:2 ,opi_loss 3.309007 time_cost4388.3510s RMSD:8.9523
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2chhA_/4.pdb
+ iter_result:3 ,opi_loss 3.313607 time_cost4393.8816s RMSD:8.9896
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2chhA_/5.pdb
+ iter_result:4 ,opi_loss 3.306877 time_cost4399.3957s RMSD:9.0164
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2chhA_/6.pdb
+ iter_result:5 ,opi_loss 3.248628 time_cost4404.9031s RMSD:9.0485
+
+***prtein:104***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ugiA_/1.pdb
+ iter_result:0 ,opi_loss 3.489571 time_cost4409.0120s RMSD:11.8375
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ugiA_/2.pdb
+ iter_result:1 ,opi_loss 3.491260 time_cost4412.8655s RMSD:11.8761
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ugiA_/3.pdb
+ iter_result:2 ,opi_loss 3.480571 time_cost4416.7051s RMSD:11.9125
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ugiA_/4.pdb
+ iter_result:3 ,opi_loss 3.464016 time_cost4420.5511s RMSD:11.9467
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ugiA_/5.pdb
+ iter_result:4 ,opi_loss 3.457231 time_cost4424.3991s RMSD:11.9853
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ugiA_/6.pdb
+ iter_result:5 ,opi_loss 3.416094 time_cost4428.2478s RMSD:12.0227
+
+***prtein:105***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wpaA_/1.pdb
+ iter_result:0 ,opi_loss 3.267923 time_cost4433.6038s RMSD:19.0623
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wpaA_/2.pdb
+ iter_result:1 ,opi_loss 3.252355 time_cost4438.7585s RMSD:19.0552
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wpaA_/3.pdb
+ iter_result:2 ,opi_loss 3.231369 time_cost4443.9209s RMSD:19.0517
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wpaA_/4.pdb
+ iter_result:3 ,opi_loss 3.242550 time_cost4449.0899s RMSD:19.0506
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wpaA_/5.pdb
+ iter_result:4 ,opi_loss 3.237478 time_cost4454.2899s RMSD:19.0478
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wpaA_/6.pdb
+ iter_result:5 ,opi_loss 3.226185 time_cost4459.4557s RMSD:19.0474
+
+***prtein:106***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tkuA_/1.pdb
+ iter_result:0 ,opi_loss 3.080906 time_cost4470.7664s RMSD:15.8575
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tkuA_/2.pdb
+ iter_result:1 ,opi_loss 3.084256 time_cost4481.9318s RMSD:15.8798
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tkuA_/3.pdb
+ iter_result:2 ,opi_loss 3.090260 time_cost4493.1375s RMSD:15.9220
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tkuA_/4.pdb
+ iter_result:3 ,opi_loss 3.090232 time_cost4504.3599s RMSD:15.9339
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tkuA_/5.pdb
+ iter_result:4 ,opi_loss 3.062825 time_cost4515.6675s RMSD:15.9702
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1tkuA_/6.pdb
+ iter_result:5 ,opi_loss 3.047745 time_cost4526.9349s RMSD:16.0038
+
+***prtein:107***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xa8A_/1.pdb
+ iter_result:0 ,opi_loss 3.407796 time_cost4538.5417s RMSD:12.2521
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xa8A_/2.pdb
+ iter_result:1 ,opi_loss 3.361719 time_cost4549.8192s RMSD:12.2974
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xa8A_/3.pdb
+ iter_result:2 ,opi_loss 3.335265 time_cost4561.0260s RMSD:12.2989
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xa8A_/4.pdb
+ iter_result:3 ,opi_loss 3.321061 time_cost4572.3034s RMSD:12.3053
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xa8A_/5.pdb
+ iter_result:4 ,opi_loss 3.320248 time_cost4583.5634s RMSD:12.3134
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xa8A_/6.pdb
+ iter_result:5 ,opi_loss 3.305259 time_cost4594.8255s RMSD:12.3301
+
+***prtein:108***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wzdA_/1.pdb
+ iter_result:0 ,opi_loss 2.809686 time_cost4607.4103s RMSD:2.8791
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wzdA_/2.pdb
+ iter_result:1 ,opi_loss 2.807924 time_cost4619.7080s RMSD:2.8769
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wzdA_/3.pdb
+ iter_result:2 ,opi_loss 2.782014 time_cost4631.9716s RMSD:2.8756
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wzdA_/4.pdb
+ iter_result:3 ,opi_loss 2.831775 time_cost4644.1858s RMSD:2.8726
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wzdA_/5.pdb
+ iter_result:4 ,opi_loss 2.798691 time_cost4656.4914s RMSD:2.8804
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1wzdA_/6.pdb
+ iter_result:5 ,opi_loss 2.807765 time_cost4668.8343s RMSD:2.8792
+
+***prtein:109***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2j8wA_/1.pdb
+ iter_result:0 ,opi_loss 2.734584 time_cost4675.7982s RMSD:1.9191
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2j8wA_/2.pdb
+ iter_result:1 ,opi_loss 2.704201 time_cost4682.2922s RMSD:1.9127
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2j8wA_/3.pdb
+ iter_result:2 ,opi_loss 2.711652 time_cost4688.7911s RMSD:1.9025
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2j8wA_/4.pdb
+ iter_result:3 ,opi_loss 2.721715 time_cost4695.2413s RMSD:1.8938
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2j8wA_/5.pdb
+ iter_result:4 ,opi_loss 2.686659 time_cost4701.7012s RMSD:1.8825
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2j8wA_/6.pdb
+ iter_result:5 ,opi_loss 2.674766 time_cost4708.2048s RMSD:1.8666
+
+***prtein:110***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dw0A_/1.pdb
+ iter_result:0 ,opi_loss 2.684955 time_cost4713.9572s RMSD:6.3911
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dw0A_/2.pdb
+ iter_result:1 ,opi_loss 2.656150 time_cost4719.4729s RMSD:6.3831
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dw0A_/3.pdb
+ iter_result:2 ,opi_loss 2.660404 time_cost4725.0011s RMSD:6.3725
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dw0A_/4.pdb
+ iter_result:3 ,opi_loss 2.670351 time_cost4730.5164s RMSD:6.3705
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dw0A_/5.pdb
+ iter_result:4 ,opi_loss 2.650666 time_cost4736.0065s RMSD:6.3641
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dw0A_/6.pdb
+ iter_result:5 ,opi_loss 2.651707 time_cost4741.4990s RMSD:6.3631
+
+***prtein:111***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bh5A_/1.pdb
+ iter_result:0 ,opi_loss 2.700864 time_cost4751.4361s RMSD:6.7573
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bh5A_/2.pdb
+ iter_result:1 ,opi_loss 2.720513 time_cost4761.2113s RMSD:6.7590
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bh5A_/3.pdb
+ iter_result:2 ,opi_loss 2.695560 time_cost4770.9756s RMSD:6.7624
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bh5A_/4.pdb
+ iter_result:3 ,opi_loss 2.684825 time_cost4780.7937s RMSD:6.7661
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bh5A_/5.pdb
+ iter_result:4 ,opi_loss 2.683570 time_cost4790.5841s RMSD:6.7693
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bh5A_/6.pdb
+ iter_result:5 ,opi_loss 2.676742 time_cost4800.4033s RMSD:6.7715
+
+***prtein:112***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bs4A_/1.pdb
+ iter_result:0 ,opi_loss 2.582052 time_cost4809.9076s RMSD:8.3947
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bs4A_/2.pdb
+ iter_result:1 ,opi_loss 2.589909 time_cost4819.1214s RMSD:8.3896
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bs4A_/3.pdb
+ iter_result:2 ,opi_loss 2.583523 time_cost4828.3118s RMSD:8.3910
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bs4A_/4.pdb
+ iter_result:3 ,opi_loss 2.571647 time_cost4837.5237s RMSD:8.3822
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bs4A_/5.pdb
+ iter_result:4 ,opi_loss 2.539090 time_cost4846.7001s RMSD:8.3825
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bs4A_/6.pdb
+ iter_result:5 ,opi_loss 2.556002 time_cost4855.9167s RMSD:8.3550
+
+***prtein:113***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e29A_/1.pdb
+ iter_result:0 ,opi_loss 2.887707 time_cost4863.1666s RMSD:6.3042
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e29A_/2.pdb
+ iter_result:1 ,opi_loss 2.882095 time_cost4870.1280s RMSD:6.2891
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e29A_/3.pdb
+ iter_result:2 ,opi_loss 2.889315 time_cost4877.0434s RMSD:6.2854
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e29A_/4.pdb
+ iter_result:3 ,opi_loss 2.890642 time_cost4883.9474s RMSD:6.2856
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e29A_/5.pdb
+ iter_result:4 ,opi_loss 2.870555 time_cost4890.8816s RMSD:6.2882
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e29A_/6.pdb
+ iter_result:5 ,opi_loss 2.883324 time_cost4897.7819s RMSD:6.2911
+
+***prtein:114***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1o82A_/1.pdb
+ iter_result:0 ,opi_loss 2.918260 time_cost4901.2425s RMSD:5.8128
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1o82A_/2.pdb
+ iter_result:1 ,opi_loss 2.919114 time_cost4904.4058s RMSD:5.8110
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1o82A_/3.pdb
+ iter_result:2 ,opi_loss 2.926346 time_cost4907.5414s RMSD:5.8090
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1o82A_/4.pdb
+ iter_result:3 ,opi_loss 2.928023 time_cost4910.7207s RMSD:5.8091
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1o82A_/5.pdb
+ iter_result:4 ,opi_loss 2.935229 time_cost4913.8593s RMSD:5.8081
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1o82A_/6.pdb
+ iter_result:5 ,opi_loss 2.931559 time_cost4917.0153s RMSD:5.8074
+
+***prtein:115***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eqmA_/1.pdb
+ iter_result:0 ,opi_loss 2.709778 time_cost4925.4913s RMSD:5.8339
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eqmA_/2.pdb
+ iter_result:1 ,opi_loss 2.684110 time_cost4933.9010s RMSD:5.8462
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eqmA_/3.pdb
+ iter_result:2 ,opi_loss 2.671503 time_cost4942.3004s RMSD:5.8552
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eqmA_/4.pdb
+ iter_result:3 ,opi_loss 2.655367 time_cost4950.7451s RMSD:5.8637
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eqmA_/5.pdb
+ iter_result:4 ,opi_loss 2.646852 time_cost4959.1704s RMSD:5.8771
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1eqmA_/6.pdb
+ iter_result:5 ,opi_loss 2.645670 time_cost4967.6441s RMSD:5.8882
+
+***prtein:116***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elkA_/1.pdb
+ iter_result:0 ,opi_loss 2.594054 time_cost4976.9457s RMSD:4.0668
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elkA_/2.pdb
+ iter_result:1 ,opi_loss 2.585822 time_cost4985.1003s RMSD:4.0628
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elkA_/3.pdb
+ iter_result:2 ,opi_loss 2.600407 time_cost4993.2185s RMSD:4.0578
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elkA_/4.pdb
+ iter_result:3 ,opi_loss 2.593985 time_cost5001.3315s RMSD:4.0502
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elkA_/5.pdb
+ iter_result:4 ,opi_loss 2.601000 time_cost5009.4715s RMSD:4.0434
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1elkA_/6.pdb
+ iter_result:5 ,opi_loss 2.602833 time_cost5017.5716s RMSD:4.0384
+
+***prtein:117***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oohA_/1.pdb
+ iter_result:0 ,opi_loss 2.697987 time_cost5025.9337s RMSD:3.2900
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oohA_/2.pdb
+ iter_result:1 ,opi_loss 2.662730 time_cost5032.2787s RMSD:3.3001
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oohA_/3.pdb
+ iter_result:2 ,opi_loss 2.661544 time_cost5038.6032s RMSD:3.3033
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oohA_/4.pdb
+ iter_result:3 ,opi_loss 2.626039 time_cost5044.9771s RMSD:3.3109
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oohA_/5.pdb
+ iter_result:4 ,opi_loss 2.647324 time_cost5051.2994s RMSD:3.3193
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1oohA_/6.pdb
+ iter_result:5 ,opi_loss 2.633948 time_cost5057.6189s RMSD:3.3230
+
+***prtein:118***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x91A_/1.pdb
+ iter_result:0 ,opi_loss 2.629184 time_cost5072.7664s RMSD:2.2235
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x91A_/2.pdb
+ iter_result:1 ,opi_loss 2.580862 time_cost5080.5707s RMSD:2.1647
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x91A_/3.pdb
+ iter_result:2 ,opi_loss 2.575439 time_cost5088.4208s RMSD:2.1648
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x91A_/4.pdb
+ iter_result:3 ,opi_loss 2.567732 time_cost5096.2516s RMSD:2.1611
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x91A_/5.pdb
+ iter_result:4 ,opi_loss 2.592106 time_cost5104.0992s RMSD:2.1788
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1x91A_/6.pdb
+ iter_result:5 ,opi_loss 2.592457 time_cost5111.9263s RMSD:2.2154
+
+***prtein:119***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cpq__/1.pdb
+ iter_result:0 ,opi_loss 2.710521 time_cost5118.8653s RMSD:1.9139
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cpq__/2.pdb
+ iter_result:1 ,opi_loss 2.725171 time_cost5125.3552s RMSD:1.9187
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cpq__/3.pdb
+ iter_result:2 ,opi_loss 2.705373 time_cost5131.7986s RMSD:1.9351
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cpq__/4.pdb
+ iter_result:3 ,opi_loss 2.732516 time_cost5138.2361s RMSD:1.9585
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cpq__/5.pdb
+ iter_result:4 ,opi_loss 2.772222 time_cost5144.6889s RMSD:1.9644
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1cpq__/6.pdb
+ iter_result:5 ,opi_loss 2.756568 time_cost5151.1347s RMSD:1.9709
+
+***prtein:120***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gcvB_/1.pdb
+ iter_result:0 ,opi_loss 2.786754 time_cost5158.3945s RMSD:1.7946
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gcvB_/2.pdb
+ iter_result:1 ,opi_loss 2.779737 time_cost5165.3530s RMSD:1.7078
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gcvB_/3.pdb
+ iter_result:2 ,opi_loss 2.784622 time_cost5172.2919s RMSD:1.6900
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gcvB_/4.pdb
+ iter_result:3 ,opi_loss 2.791461 time_cost5179.2622s RMSD:1.6776
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gcvB_/5.pdb
+ iter_result:4 ,opi_loss 2.733522 time_cost5186.1943s RMSD:1.6709
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gcvB_/6.pdb
+ iter_result:5 ,opi_loss 2.729169 time_cost5193.1315s RMSD:1.6730
+
+***prtein:121***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e20A_/1.pdb
+ iter_result:0 ,opi_loss 2.627759 time_cost5203.7102s RMSD:4.5033
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e20A_/2.pdb
+ iter_result:1 ,opi_loss 2.627023 time_cost5214.2445s RMSD:4.5080
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e20A_/3.pdb
+ iter_result:2 ,opi_loss 2.631183 time_cost5224.6392s RMSD:4.5129
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e20A_/4.pdb
+ iter_result:3 ,opi_loss 2.631342 time_cost5235.1068s RMSD:4.5184
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e20A_/5.pdb
+ iter_result:4 ,opi_loss 2.636407 time_cost5245.5548s RMSD:4.5242
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1e20A_/6.pdb
+ iter_result:5 ,opi_loss 2.648330 time_cost5256.0193s RMSD:4.5280
+
+***prtein:122***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1usqA_/1.pdb
+ iter_result:0 ,opi_loss 2.977704 time_cost5263.5635s RMSD:11.7792
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1usqA_/2.pdb
+ iter_result:1 ,opi_loss 2.917876 time_cost5270.7608s RMSD:11.7731
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1usqA_/3.pdb
+ iter_result:2 ,opi_loss 2.948737 time_cost5277.9062s RMSD:11.7621
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1usqA_/4.pdb
+ iter_result:3 ,opi_loss 2.996286 time_cost5285.1176s RMSD:11.7594
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1usqA_/5.pdb
+ iter_result:4 ,opi_loss 2.988384 time_cost5292.3486s RMSD:11.7531
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1usqA_/6.pdb
+ iter_result:5 ,opi_loss 2.975602 time_cost5299.4946s RMSD:11.7484
+
+***prtein:123***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1kafA_/1.pdb
+ iter_result:0 ,opi_loss 3.483356 time_cost5305.0669s RMSD:10.4144
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1kafA_/2.pdb
+ iter_result:1 ,opi_loss 3.474612 time_cost5310.3235s RMSD:10.4117
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1kafA_/3.pdb
+ iter_result:2 ,opi_loss 3.442740 time_cost5315.5666s RMSD:10.4085
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1kafA_/4.pdb
+ iter_result:3 ,opi_loss 3.419029 time_cost5320.8233s RMSD:10.4057
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1kafA_/5.pdb
+ iter_result:4 ,opi_loss 3.409957 time_cost5326.0893s RMSD:10.4045
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1kafA_/6.pdb
+ iter_result:5 ,opi_loss 3.407529 time_cost5331.3403s RMSD:10.4051
+
+***prtein:124***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1c9kB_/1.pdb
+ iter_result:0 ,opi_loss 3.094608 time_cost5341.5223s RMSD:7.0723
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1c9kB_/2.pdb
+ iter_result:1 ,opi_loss 3.051174 time_cost5351.4407s RMSD:7.0640
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1c9kB_/3.pdb
+ iter_result:2 ,opi_loss 3.024307 time_cost5361.4286s RMSD:7.0498
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1c9kB_/4.pdb
+ iter_result:3 ,opi_loss 3.067076 time_cost5371.3999s RMSD:7.0349
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1c9kB_/5.pdb
+ iter_result:4 ,opi_loss 3.044173 time_cost5381.4131s RMSD:7.0327
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1c9kB_/6.pdb
+ iter_result:5 ,opi_loss 3.066410 time_cost5391.3938s RMSD:7.0269
+
+***prtein:125***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3cjsB_/1.pdb
+ iter_result:0 ,opi_loss 2.673844 time_cost5395.0687s RMSD:2.2772
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3cjsB_/2.pdb
+ iter_result:1 ,opi_loss 2.658473 time_cost5398.3053s RMSD:2.2817
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3cjsB_/3.pdb
+ iter_result:2 ,opi_loss 2.660434 time_cost5401.5210s RMSD:2.2843
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3cjsB_/4.pdb
+ iter_result:3 ,opi_loss 2.646332 time_cost5404.7419s RMSD:2.2842
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3cjsB_/5.pdb
+ iter_result:4 ,opi_loss 2.634173 time_cost5407.9639s RMSD:2.2837
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/3cjsB_/6.pdb
+ iter_result:5 ,opi_loss 2.639396 time_cost5411.1953s RMSD:2.2873
+
+***prtein:126***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pvbA_/1.pdb
+ iter_result:0 ,opi_loss 2.556760 time_cost5416.5247s RMSD:5.9350
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pvbA_/2.pdb
+ iter_result:1 ,opi_loss 2.486877 time_cost5421.7401s RMSD:5.9467
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pvbA_/3.pdb
+ iter_result:2 ,opi_loss 2.444055 time_cost5426.8933s RMSD:5.9564
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pvbA_/4.pdb
+ iter_result:3 ,opi_loss 2.435380 time_cost5432.0502s RMSD:5.9687
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pvbA_/5.pdb
+ iter_result:4 ,opi_loss 2.425397 time_cost5437.2147s RMSD:5.9817
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pvbA_/6.pdb
+ iter_result:5 ,opi_loss 2.437235 time_cost5442.4139s RMSD:5.9940
+
+***prtein:127***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ddrA_/1.pdb
+ iter_result:0 ,opi_loss 2.451703 time_cost5451.1002s RMSD:1.9512
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ddrA_/2.pdb
+ iter_result:1 ,opi_loss 2.433542 time_cost5459.5615s RMSD:1.9361
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ddrA_/3.pdb
+ iter_result:2 ,opi_loss 2.405736 time_cost5468.0236s RMSD:1.9363
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ddrA_/4.pdb
+ iter_result:3 ,opi_loss 2.418606 time_cost5476.5315s RMSD:1.9321
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ddrA_/5.pdb
+ iter_result:4 ,opi_loss 2.407617 time_cost5485.0125s RMSD:1.9363
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ddrA_/6.pdb
+ iter_result:5 ,opi_loss 2.411164 time_cost5493.5284s RMSD:1.9358
+
+***prtein:128***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pv2A_/1.pdb
+ iter_result:0 ,opi_loss 2.159276 time_cost5498.8141s RMSD:1.5294
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pv2A_/2.pdb
+ iter_result:1 ,opi_loss 2.125769 time_cost5503.7583s RMSD:1.5277
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pv2A_/3.pdb
+ iter_result:2 ,opi_loss 2.158501 time_cost5508.6795s RMSD:1.5281
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pv2A_/4.pdb
+ iter_result:3 ,opi_loss 2.168728 time_cost5513.6317s RMSD:1.5328
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pv2A_/5.pdb
+ iter_result:4 ,opi_loss 2.147647 time_cost5518.5462s RMSD:1.5376
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2pv2A_/6.pdb
+ iter_result:5 ,opi_loss 2.149645 time_cost5523.4657s RMSD:1.5362
+
+***prtein:129***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hdoA_/1.pdb
+ iter_result:0 ,opi_loss 2.453095 time_cost5535.5454s RMSD:2.1072
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hdoA_/2.pdb
+ iter_result:1 ,opi_loss 2.425559 time_cost5547.3956s RMSD:2.0912
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hdoA_/3.pdb
+ iter_result:2 ,opi_loss 2.418546 time_cost5559.2729s RMSD:2.0892
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hdoA_/4.pdb
+ iter_result:3 ,opi_loss 2.433933 time_cost5571.1814s RMSD:2.0845
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hdoA_/5.pdb
+ iter_result:4 ,opi_loss 2.435643 time_cost5583.1506s RMSD:2.0862
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hdoA_/6.pdb
+ iter_result:5 ,opi_loss 2.416615 time_cost5595.0612s RMSD:2.0794
+
+***prtein:130***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2h7zA_/1.pdb
+ iter_result:0 ,opi_loss 2.822630 time_cost5598.9927s RMSD:3.5173
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2h7zA_/2.pdb
+ iter_result:1 ,opi_loss 2.847263 time_cost5602.4196s RMSD:3.5167
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2h7zA_/3.pdb
+ iter_result:2 ,opi_loss 2.828186 time_cost5605.8182s RMSD:3.5140
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2h7zA_/4.pdb
+ iter_result:3 ,opi_loss 2.846988 time_cost5609.2125s RMSD:3.5121
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2h7zA_/5.pdb
+ iter_result:4 ,opi_loss 2.808839 time_cost5612.6097s RMSD:3.5108
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2h7zA_/6.pdb
+ iter_result:5 ,opi_loss 2.788469 time_cost5616.0092s RMSD:3.5089
+
+***prtein:131***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/101m__/1.pdb
+ iter_result:0 ,opi_loss 2.362034 time_cost5624.3629s RMSD:1.5011
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/101m__/2.pdb
+ iter_result:1 ,opi_loss 2.369938 time_cost5632.4913s RMSD:1.4890
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/101m__/3.pdb
+ iter_result:2 ,opi_loss 2.326606 time_cost5640.6915s RMSD:1.4930
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/101m__/4.pdb
+ iter_result:3 ,opi_loss 2.328975 time_cost5648.8690s RMSD:1.4977
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/101m__/5.pdb
+ iter_result:4 ,opi_loss 2.335198 time_cost5657.1067s RMSD:1.4980
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/101m__/6.pdb
+ iter_result:5 ,opi_loss 2.335080 time_cost5665.3129s RMSD:1.5002
+
+***prtein:132***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dxpA_/1.pdb
+ iter_result:0 ,opi_loss 3.297808 time_cost5675.2189s RMSD:9.1980
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dxpA_/2.pdb
+ iter_result:1 ,opi_loss 3.263380 time_cost5684.8465s RMSD:9.1955
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dxpA_/3.pdb
+ iter_result:2 ,opi_loss 3.281672 time_cost5694.5041s RMSD:9.1930
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dxpA_/4.pdb
+ iter_result:3 ,opi_loss 3.264809 time_cost5704.1022s RMSD:9.1893
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dxpA_/5.pdb
+ iter_result:4 ,opi_loss 3.257311 time_cost5713.7501s RMSD:9.1849
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dxpA_/6.pdb
+ iter_result:5 ,opi_loss 3.237635 time_cost5723.3907s RMSD:9.1834
+
+***prtein:133***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a07A_/1.pdb
+ iter_result:0 ,opi_loss 2.607595 time_cost5728.8629s RMSD:1.6562
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a07A_/2.pdb
+ iter_result:1 ,opi_loss 2.588058 time_cost5733.9401s RMSD:1.6545
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a07A_/3.pdb
+ iter_result:2 ,opi_loss 2.585128 time_cost5739.0031s RMSD:1.6548
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a07A_/4.pdb
+ iter_result:3 ,opi_loss 2.562736 time_cost5744.0579s RMSD:1.6578
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a07A_/5.pdb
+ iter_result:4 ,opi_loss 2.567062 time_cost5749.1399s RMSD:1.6625
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1a07A_/6.pdb
+ iter_result:5 ,opi_loss 2.556030 time_cost5754.1993s RMSD:1.6673
+
+***prtein:134***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ofcA_/1.pdb
+ iter_result:0 ,opi_loss 3.167633 time_cost5761.6555s RMSD:5.3811
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ofcA_/2.pdb
+ iter_result:1 ,opi_loss 3.163319 time_cost5768.9154s RMSD:5.3873
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ofcA_/3.pdb
+ iter_result:2 ,opi_loss 3.144928 time_cost5776.1605s RMSD:5.3927
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ofcA_/4.pdb
+ iter_result:3 ,opi_loss 3.140073 time_cost5783.4430s RMSD:5.4002
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ofcA_/5.pdb
+ iter_result:4 ,opi_loss 3.144867 time_cost5790.7111s RMSD:5.4063
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2ofcA_/6.pdb
+ iter_result:5 ,opi_loss 3.140143 time_cost5797.9950s RMSD:5.4138
+
+***prtein:135***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bzsA_/1.pdb
+ iter_result:0 ,opi_loss 2.956218 time_cost5807.2996s RMSD:4.5840
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bzsA_/2.pdb
+ iter_result:1 ,opi_loss 2.943765 time_cost5816.1999s RMSD:4.5789
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bzsA_/3.pdb
+ iter_result:2 ,opi_loss 2.918032 time_cost5825.1551s RMSD:4.5724
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bzsA_/4.pdb
+ iter_result:3 ,opi_loss 2.936543 time_cost5834.0922s RMSD:4.5673
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bzsA_/5.pdb
+ iter_result:4 ,opi_loss 2.928921 time_cost5843.0365s RMSD:4.5654
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1bzsA_/6.pdb
+ iter_result:5 ,opi_loss 2.895780 time_cost5851.9785s RMSD:4.5613
+
+***prtein:136***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1f7lA_/1.pdb
+ iter_result:0 ,opi_loss 2.829116 time_cost5858.1582s RMSD:2.6129
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1f7lA_/2.pdb
+ iter_result:1 ,opi_loss 2.829210 time_cost5864.0093s RMSD:2.6061
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1f7lA_/3.pdb
+ iter_result:2 ,opi_loss 2.831591 time_cost5869.8278s RMSD:2.6036
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1f7lA_/4.pdb
+ iter_result:3 ,opi_loss 2.823661 time_cost5875.6809s RMSD:2.6008
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1f7lA_/5.pdb
+ iter_result:4 ,opi_loss 2.807033 time_cost5881.5092s RMSD:2.5975
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1f7lA_/6.pdb
+ iter_result:5 ,opi_loss 2.785612 time_cost5887.3297s RMSD:2.5939
+
+***prtein:137***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gpqA_/1.pdb
+ iter_result:0 ,opi_loss 2.754146 time_cost5893.9551s RMSD:5.2295
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gpqA_/2.pdb
+ iter_result:1 ,opi_loss 2.744647 time_cost5900.3284s RMSD:5.2326
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gpqA_/3.pdb
+ iter_result:2 ,opi_loss 2.734861 time_cost5906.7019s RMSD:5.2349
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gpqA_/4.pdb
+ iter_result:3 ,opi_loss 2.697747 time_cost5913.1087s RMSD:5.2379
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gpqA_/5.pdb
+ iter_result:4 ,opi_loss 2.718467 time_cost5919.4971s RMSD:5.2404
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gpqA_/6.pdb
+ iter_result:5 ,opi_loss 2.725531 time_cost5925.8795s RMSD:5.2426
+
+***prtein:138***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uxzA_/1.pdb
+ iter_result:0 ,opi_loss 2.966404 time_cost5932.8228s RMSD:2.4345
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uxzA_/2.pdb
+ iter_result:1 ,opi_loss 2.969788 time_cost5939.4454s RMSD:2.4441
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uxzA_/3.pdb
+ iter_result:2 ,opi_loss 2.956070 time_cost5946.0648s RMSD:2.4502
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uxzA_/4.pdb
+ iter_result:3 ,opi_loss 2.950142 time_cost5952.7176s RMSD:2.4598
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uxzA_/5.pdb
+ iter_result:4 ,opi_loss 2.953733 time_cost5959.3325s RMSD:2.4641
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1uxzA_/6.pdb
+ iter_result:5 ,opi_loss 2.923223 time_cost5965.9554s RMSD:2.4751
+
+***prtein:139***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xmtA_/1.pdb
+ iter_result:0 ,opi_loss 2.679857 time_cost5970.7995s RMSD:2.6113
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xmtA_/2.pdb
+ iter_result:1 ,opi_loss 2.683428 time_cost5975.3375s RMSD:2.6133
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xmtA_/3.pdb
+ iter_result:2 ,opi_loss 2.696059 time_cost5979.8512s RMSD:2.6155
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xmtA_/4.pdb
+ iter_result:3 ,opi_loss 2.701892 time_cost5984.3285s RMSD:2.6179
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xmtA_/5.pdb
+ iter_result:4 ,opi_loss 2.707189 time_cost5988.8197s RMSD:2.6203
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1xmtA_/6.pdb
+ iter_result:5 ,opi_loss 2.738092 time_cost5993.3363s RMSD:2.6223
+
+***prtein:140***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ok0A_/1.pdb
+ iter_result:0 ,opi_loss 4.042183 time_cost5996.9587s RMSD:9.4845
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ok0A_/2.pdb
+ iter_result:1 ,opi_loss 3.852546 time_cost6000.3340s RMSD:9.4925
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ok0A_/3.pdb
+ iter_result:2 ,opi_loss 3.817581 time_cost6003.6759s RMSD:9.4953
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ok0A_/4.pdb
+ iter_result:3 ,opi_loss 3.849352 time_cost6007.0203s RMSD:9.4994
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ok0A_/5.pdb
+ iter_result:4 ,opi_loss 3.820326 time_cost6010.3663s RMSD:9.5023
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1ok0A_/6.pdb
+ iter_result:5 ,opi_loss 3.989145 time_cost6013.7411s RMSD:9.5040
+
+***prtein:141***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dt1A_/1.pdb
+ iter_result:0 ,opi_loss 2.794358 time_cost6020.3743s RMSD:13.1353
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dt1A_/2.pdb
+ iter_result:1 ,opi_loss 2.775225 time_cost6026.8067s RMSD:13.1372
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dt1A_/3.pdb
+ iter_result:2 ,opi_loss 2.783111 time_cost6033.2772s RMSD:13.1364
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dt1A_/4.pdb
+ iter_result:3 ,opi_loss 2.785133 time_cost6039.7872s RMSD:13.1361
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dt1A_/5.pdb
+ iter_result:4 ,opi_loss 2.790262 time_cost6046.2643s RMSD:13.1379
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dt1A_/6.pdb
+ iter_result:5 ,opi_loss 2.797752 time_cost6052.7421s RMSD:13.1386
+
+***prtein:142***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2hl0A_/1.pdb
+ iter_result:0 ,opi_loss 2.870309 time_cost6060.4533s RMSD:5.4122
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2hl0A_/2.pdb
+ iter_result:1 ,opi_loss 2.861809 time_cost6067.8232s RMSD:5.4191
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2hl0A_/3.pdb
+ iter_result:2 ,opi_loss 2.850966 time_cost6075.2271s RMSD:5.4249
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2hl0A_/4.pdb
+ iter_result:3 ,opi_loss 2.855148 time_cost6082.5935s RMSD:5.4320
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2hl0A_/5.pdb
+ iter_result:4 ,opi_loss 2.791132 time_cost6089.9734s RMSD:5.4558
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/2hl0A_/6.pdb
+ iter_result:5 ,opi_loss 2.818521 time_cost6097.3918s RMSD:5.4758
+
+***prtein:143***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q4kA_/1.pdb
+ iter_result:0 ,opi_loss 4.261227 time_cost6110.9929s RMSD:21.5156
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q4kA_/2.pdb
+ iter_result:1 ,opi_loss 4.253075 time_cost6124.2681s RMSD:21.5188
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q4kA_/3.pdb
+ iter_result:2 ,opi_loss 4.234439 time_cost6137.6084s RMSD:21.5323
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q4kA_/4.pdb
+ iter_result:3 ,opi_loss 4.255079 time_cost6150.9656s RMSD:21.5435
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q4kA_/5.pdb
+ iter_result:4 ,opi_loss 4.248644 time_cost6164.2999s RMSD:21.5523
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1q4kA_/6.pdb
+ iter_result:5 ,opi_loss 4.233398 time_cost6177.6164s RMSD:21.5621
+
+***prtein:144***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d7bA_/1.pdb
+ iter_result:0 ,opi_loss 3.432238 time_cost6188.5801s RMSD:12.6573
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d7bA_/2.pdb
+ iter_result:1 ,opi_loss 3.312499 time_cost6199.0724s RMSD:12.6370
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d7bA_/3.pdb
+ iter_result:2 ,opi_loss 3.319072 time_cost6209.5481s RMSD:12.6334
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d7bA_/4.pdb
+ iter_result:3 ,opi_loss 3.327181 time_cost6219.9598s RMSD:12.6362
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d7bA_/5.pdb
+ iter_result:4 ,opi_loss 3.305652 time_cost6230.5095s RMSD:12.6267
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1d7bA_/6.pdb
+ iter_result:5 ,opi_loss 3.301025 time_cost6241.1335s RMSD:12.6254
+
+***prtein:145***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1i4sA_/1.pdb
+ iter_result:0 ,opi_loss 2.993472 time_cost6249.3089s RMSD:3.3577
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1i4sA_/2.pdb
+ iter_result:1 ,opi_loss 2.974714 time_cost6257.1121s RMSD:3.3847
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1i4sA_/3.pdb
+ iter_result:2 ,opi_loss 3.012677 time_cost6264.8780s RMSD:3.4015
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1i4sA_/4.pdb
+ iter_result:3 ,opi_loss 2.949954 time_cost6272.6228s RMSD:3.4252
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1i4sA_/5.pdb
+ iter_result:4 ,opi_loss 2.944825 time_cost6280.4002s RMSD:3.4479
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1i4sA_/6.pdb
+ iter_result:5 ,opi_loss 2.934377 time_cost6288.1550s RMSD:3.4625
+
+***prtein:146***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gy7A_/1.pdb
+ iter_result:0 ,opi_loss 2.504208 time_cost6294.5909s RMSD:1.6184
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gy7A_/2.pdb
+ iter_result:1 ,opi_loss 2.479296 time_cost6300.6879s RMSD:1.6151
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gy7A_/3.pdb
+ iter_result:2 ,opi_loss 2.474247 time_cost6306.7565s RMSD:1.6148
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gy7A_/4.pdb
+ iter_result:3 ,opi_loss 2.464989 time_cost6312.8472s RMSD:1.6184
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gy7A_/5.pdb
+ iter_result:4 ,opi_loss 2.452064 time_cost6318.9027s RMSD:1.6182
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1gy7A_/6.pdb
+ iter_result:5 ,opi_loss 2.442841 time_cost6324.9644s RMSD:1.6209
+
+***prtein:147***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hlb__/1.pdb
+ iter_result:0 ,opi_loss 2.649787 time_cost6333.5564s RMSD:2.8586
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hlb__/2.pdb
+ iter_result:1 ,opi_loss 2.641605 time_cost6341.9172s RMSD:2.8476
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hlb__/3.pdb
+ iter_result:2 ,opi_loss 2.613976 time_cost6350.3148s RMSD:2.8442
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hlb__/4.pdb
+ iter_result:3 ,opi_loss 2.610400 time_cost6358.6759s RMSD:2.8437
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hlb__/5.pdb
+ iter_result:4 ,opi_loss 2.589659 time_cost6367.0429s RMSD:2.8516
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1hlb__/6.pdb
+ iter_result:5 ,opi_loss 2.571279 time_cost6375.3748s RMSD:2.8538
+
+***prtein:148***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y9tA_/1.pdb
+ iter_result:0 ,opi_loss 3.154107 time_cost6381.0702s RMSD:11.9660
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y9tA_/2.pdb
+ iter_result:1 ,opi_loss 3.080290 time_cost6386.4762s RMSD:12.0089
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y9tA_/3.pdb
+ iter_result:2 ,opi_loss 3.116122 time_cost6391.8328s RMSD:12.0270
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y9tA_/4.pdb
+ iter_result:3 ,opi_loss 3.073938 time_cost6397.1840s RMSD:12.0456
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y9tA_/5.pdb
+ iter_result:4 ,opi_loss 3.088277 time_cost6402.5315s RMSD:12.0494
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1y9tA_/6.pdb
+ iter_result:5 ,opi_loss 3.044898 time_cost6407.9173s RMSD:12.0502
+
+***prtein:149***
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dveA_/1.pdb
+ iter_result:0 ,opi_loss 2.931402 time_cost6420.5779s RMSD:3.5525
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dveA_/2.pdb
+ iter_result:1 ,opi_loss 2.935829 time_cost6433.0869s RMSD:3.5349
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dveA_/3.pdb
+ iter_result:2 ,opi_loss 2.943763 time_cost6445.6801s RMSD:3.5384
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dveA_/4.pdb
+ iter_result:3 ,opi_loss 2.925835 time_cost6458.4025s RMSD:3.5405
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dveA_/5.pdb
+ iter_result:4 ,opi_loss 2.911821 time_cost6471.1506s RMSD:3.5360
+
+refinemnt pdb file: ../example4/cpu_result/770_lr0.0005_sm1.2SGD_entropy1/1dveA_/6.pdb
+ iter_result:5 ,opi_loss 2.886421 time_cost 6483.8260s RMSD:3.5314
+
